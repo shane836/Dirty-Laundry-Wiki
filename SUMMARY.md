@@ -1,8 +1,8 @@
-# Clean Lewks Dirty $$ - Game Wiki
+# Table of contents
 
-* [Setting and Premise](01-Setting-and-Premise.md)
+* [Setting and Premise](README.md)
 * [The Victim](02-The-Victim.md)
-* Major Characters
+* [Major Characters](major-characters/README.md)
   * [Val Montecito](03-Val-Montecito.md)
   * [Marco Reyes](04-Marco-Reyes.md)
   * [Zane Nakamura](05-Zane-Nakamura.md)
@@ -14,7 +14,7 @@
   * [Irina Volkov](11-Irina-Volkov.md)
   * [Character Relationship Web](07-Relationship-Web.md)
 * [Minor Characters](14-Minor-Characters.md)
-* Plot / Gameplay Structure
+* [Plot / Gameplay Structure](plot-gameplay-structure/README.md)
   * [Round 1](15-Round-1.md)
   * [Round 2](16-Round-2.md)
   * [Rounds 3 & 4](17-Killer-Paths.md)
