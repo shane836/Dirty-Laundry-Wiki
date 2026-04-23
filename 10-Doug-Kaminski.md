@@ -4,7 +4,7 @@
 
 **Era:** Early fifties with grandfatherly energy. Big man, big laugh, big presence. Fills every room and most doorframes.
 
-**Public Persona:** Boisterous Pittsburgh businessman. Porta potty rental franchise empire (Kaminski's Portable Sanitation—KPS). Sense of humor about the business. Makes porta potty jokes CONSTANTLY: "You know what they say about the porta potty business? It's a crappy job but somebody's gotta do it." Never tires of this. Absolutely massive in height, volume, presence. "Talks for a living, even if it's all shit."
+**Public Persona:** Boisterous Pittsburgh businessman. Goes by "The Duke" — a self-given nickname from his college days that inexplicably stuck in certain circles. Porta potty rental franchise empire (Kaminski's Portable Sanitation—KPS). Sense of humor about the business. Makes porta potty jokes CONSTANTLY: "You know what they say about the porta potty business? It's a crappy job but somebody's gotta do it." Never tires of this. Absolutely massive in height, volume, presence. "Talks for a living, even if it's all shit."
 
 **Real Story:** Porta potty business is perfect money laundering front. Cash-heavy, construction sites, fudgeable municipal contracts, zero oversight. Been cleaning dirty money for five years—initially his own tax evasion, increasingly for Gloria's cartel. Financial dependency runs deep: Gloria needs his cash business, he needs her volume to justify expansion.
 

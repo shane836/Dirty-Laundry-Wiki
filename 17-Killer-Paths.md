@@ -18,7 +18,7 @@ Zane never knew she'd left. He was in the bathroom having a full panic attack ab
 
 ### Round 3 Evidence Beats (75 minutes)
 
-**Beat 1:** Detective discovers a second key card swipe on Richie's floor at 10:05 PM—an owner's override card. Only one exists. Val owns it.
+**Beat 1:** Detective discovers a second key card swipe on Richie's floor at 10:05 PM—an owner's override card. Only one exists. Val owns it. (Note: the 10:07 PM master key swipe was Marco moving a car into the service garage — a routine valet task. In this path, his story is true. He may have seen or heard something he isn't saying, but the swipe itself is innocent.)
 
 **Beat 2:** Destiny Rivers, live-streaming from her balcony throughout the evening, mentions that Val's suite back door was propped open at 9:30 PM. "I remember thinking it was weird because it's usually locked."
 
@@ -50,9 +50,9 @@ Val is the most glamorous, most sympathetic character—hotel owner, victim of c
 
 ### The Murder
 
-Marco took a fifteen-minute break from valet duty at 10:07 PM. He had a master key—not unusual for a valet who needs to retrieve items from vehicles. He used it to access the service area.
+Marco used his master key at 10:07 PM to move a car into the service garage — a routine valet task logged in his records. But he didn't go back to the stand. He used the access to reach the service area.
 
-He found Richie stumbling toward the laundry room, disoriented and weakened from the poisoned shirt. Marco didn't plan this as a murder. He planned it as a confrontation. He was going to ask Richie directly: "Why did you kill my brother?"
+He found Richie stumbling toward the laundry room around 10:30 PM, disoriented and weakened from the poisoned shirt. Marco didn't plan this as a murder. He planned it as a confrontation. He was going to ask Richie directly: "Why did you kill my brother?"
 
 Richie, drunk and contemptuous, laughed at him.
 
@@ -62,11 +62,11 @@ Something in Marco broke.
 
 He found an industrial laundry cord—the heavy kind used to bundle sheets. He wrapped it around Richie's throat from behind. Richie struggled for thirty seconds. Then he didn't.
 
-Marco stuffed the body into a laundry basket, wiped his prints with a bleach rag, and was back at the valet stand in eleven minutes. Nobody noticed.
+Marco stuffed the body into a laundry basket, wiped his prints with a bleach rag, and was back at the valet stand by 10:42 PM. Nobody noticed.
 
 ### Round 3 Evidence Beats
 
-**Beat 1:** Master key swipe recorded at service area at 10:07 PM. Rosa confirms: "Marco took his break right then. But he came back. He always does. Eleven minutes."
+**Beat 1:** Master key swipe recorded at service area at 10:07 PM. Rosa confirms: "Marco used his key at 10:07 to move a car into the service garage. He says that's all he did. But he didn't come back to the stand until 10:42. That's thirty-five minutes for a five-minute task."
 
 **Beat 2:** Gloria and Marco's relationship is revealed through Chip Davenport's testimony. Gloria is Marco's mother. It's not speculation—it's confirmed. "I've known Gloria for thirty years. Marco is her son. She loves that boy like her life depends on it."
 
@@ -144,11 +144,11 @@ Dex is the cool, collected ex-cartel fixer nobody suspects until too late. His m
 
 ### The Murder
 
-Gloria did it herself. She left the conference room at 10:02 PM through the side exit that connects directly to the service stairwell. Three minutes to reach the service area. Two minutes to find Richie, already weakened from the poisoned shirt she'd ordered Irina to deliver.
+Gloria did it herself. She left the conference room at 10:25 PM through the side exit that connects directly to the service stairwell. Three minutes to reach the service area. Two minutes to find Richie, already weakened from the poisoned shirt she'd ordered Irina to deliver.
 
 She had an insulin pen in her purse—not because she's diabetic, but because it contains a fast-acting paralytic agent. She purchased it through cartel channels six months ago for a different operation that never happened.
 
-She found Richie collapsing near the laundry area. Confused, disoriented, dying slowly from Irina's toxin.
+She found Richie collapsing near the laundry area around 10:30 PM. Confused, disoriented, dying slowly from Irina's toxin.
 
 Gloria approached him. He recognized her. "Gloria? What are you—"
 
@@ -184,6 +184,8 @@ Then she stopped. Not because she wanted to. Because her mind went black.
 
 [Rest of the murder and discovery...]
 
+**Round 3 Evidence Beat (Irina as inadvertent witness):** Irina, under questioning, admits she saw "a drunk woman near the service corridor around 10 PM. She was stumbling. I went back to work." This makes Irina an inadvertent witness placing Pam near the crime scene at the critical time.
+
 ### Why It Works
 
 This is the most psychologically disturbing killer path. Pam is guilty and innocent simultaneously. She's a victim of herself. The game doesn't end with satisfying justice—it ends with uncomfortable philosophy.
@@ -207,6 +209,8 @@ He found Richie in his room, already deteriorating from the poisoned shirt. Rich
 Richie tried to run. Doug moved with surprising speed for a massive man. He put his enormous hands around Richie's throat. Ninety seconds. Richie's body went limp.
 
 [Rest of murder and staged arrival...]
+
+**Confession Addition:** "And Val — Val doesn't know what I did. But she would have lost everything too. Her hotel, her operation, all of it. I wasn't just protecting myself."
 
 ### Why It Works
 
@@ -238,9 +242,15 @@ She watched him die. She counted his breaths until they stopped. She noted the e
 
 When he was completely dead, she placed his body in a laundry basket.
 
+She waited. She needed to be sure he was gone. And she needed to be the one who found him — so that she could control what came next. Her deliberate delay was part of a calculated survival plan, not hesitation. She screamed at 10:45 PM. By then, she had composed herself, adjusted the scene, and prepared her broken-English performance.
+
 ### Round 3 Evidence Beats
 
 [Evidence discovery beats including livestream, chemical analysis, leverage revelation, and Russian note...]
+
+**Beat (Richie/Irina Russian connection):** A detective asks: "He spoke Russian with you. He was kind to you. Why did you let him die?" Irina's answer: "Because he recognized me. A person pretending to be less than they are. He was doing the same thing. I think he understood me. That did not change what I had been ordered to do."
+
+**Beat (Pam as inadvertent witness):** Pam, under questioning, says: "I think I saw the housekeeper. Near the laundry. She looked... calm. Too calm for that time of night." This places Pam as an inadvertent witness against Irina.
 
 ### Round 4: The Confrontation and Confession
 
@@ -286,6 +296,8 @@ Done.
 
 [Rest of crime and staging...]
 
+**Round 3 Evidence Beat (Zane as witness):** Zane, under questioning, mentions he watched Sunny all evening — she was too still, too observant for a consultant. Around 9:50 PM, he lost track of her. She simply wasn't visible for about 20 minutes.
+
 ### Why It Works
 
 Most intellectually provocative killer path. Sunny is objectively right about the consequences—victims do matter more than Richie. But vigilantism is vigilantism. The game forces players to grapple with utilitarianism versus rule of law.
@@ -298,7 +310,7 @@ Most intellectually provocative killer path. Sunny is objectively right about th
 
 There is no murder. Richie Rathbone committed suicide. Intentional, premeditated, symbolic.
 
-He used chemicals from the hotel laundry to create a homemade poison. Not Irina's formula—his own. Richer, better-quality toxins purchased through encrypted channels and mixed into both a shirt (which he would wear) and his vodka bottle.
+Irina's shirt was delivered and poisoned as usual per Gloria's orders. But Richie — who recognized the symptoms because he'd arranged this kind of operation before — knew what was happening and chose not to remove the shirt. He also supplemented it: drinking from his own separately prepared vodka, spiked through encrypted chemical sources. Irina's poison was slow. His was fast. The combination was fatal. He didn't fight what was already in motion — he accelerated it.
 
 He drank the vodka slowly over three hours. He wore the poisoned shirt.
 
@@ -334,6 +346,8 @@ This is the nuclear option. It subverts the entire genre of the murder mystery g
 - **Doug/Irina:** Players who want subversion of expectations
 - **Sunny:** Players who want philosophical debate about justice vs. utilitarianism
 - **Richie (Suicide):** Players who want genre deconstruction and nihilistic themes
+
+**The 10:07 PM Master Key Swipe (All Paths):** Marco used his master key at 10:07 PM to move a car into the service garage — a routine valet task logged in his records. He was in the service area briefly and may have seen or heard something he isn't saying. In Path 2, his "moving a car" story is the lie that unravels. In all other paths, it's the truth that makes him a witness rather than the killer. This resolves the swipe in every path without implicating him.
 
 **Narrative Flexibility:** Any three paths can be run as alternate rounds. You could rotate between Gloria as killer in one game, Marco in another, Zane in a third.
 

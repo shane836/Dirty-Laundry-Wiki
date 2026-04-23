@@ -29,6 +29,8 @@ A tight, beat-by-beat plot structure. Specific HOST directions, character beats,
 
 **HOST NOTE:** Allow players to circulate freely in character. All personas are public at this stage—no deep secrets yet. This is where they establish relationships and test each other's reactions. Stagger arrivals for energy and momentum.
 
+**Atmosphere Detail:** Near the pool bar, a man in a dog collar and Hawaiian shirt is holding court — Reverend Jimmy Whitfield, the conference chaplain. He runs a confessional booth by the pool. You'd be surprised how many tax attorneys need one.
+
 #### **VAL** — *Already there, holding court*
 Arrives first or is already at the party when players appear. She owns the space. Greeting everyone warmly, champagne in hand, introducing players to each other.
 
@@ -55,6 +57,7 @@ Technically working valet but pops into the party for quick errands. Charming an
 - Mentions parking "a very nice car" for someone (let players wonder whose)
 - Asks people about their vehicles
 - Friendly with Gloria, awkward with Richie (when Richie appears)
+- If Richie's name comes up, Marco says almost to himself: "My brother used to say guys like Richie always get away with everything." Then changes the subject immediately.
 - Stays near the exit—ready to leave if called for parking
 
 #### **ZANE** — *Crypto bro energy, always on the phone*
@@ -85,7 +88,7 @@ Arrives and immediately orders "whatever's strongest." Makes jokes about looking
 - Checks her phone when she thinks no one's looking
 
 #### **DOUG** — *Conspicuously absent*
-NOT HERE. Someone will ask. Answer: "Porta potty emergency in Pittsburgh. Some client emergency. He said he'd be back by midnight." Establish him as unreliable, always late, dealing with logistical chaos.
+NOT HERE. Someone will ask. Answer: "The Duke? Porta potty emergency in Pittsburgh. Some client emergency. He said he'd be back by midnight." Establish him as unreliable, always late, dealing with logistical chaos. Use the nickname "The Duke" when referencing him — it's how people in this circle know him.
 
 #### **IRINA** — *Visible but in the background, managing staff*
 Visible in the background, moving between tables, managing staff. Nods when spoken to. Halting English. Keeps the party running smoothly. Doesn't participate in conversation.
@@ -143,7 +146,7 @@ She's present but unmemorable. Small talk about "enterprise optimization" and "s
 - **Chemical Residue:** Yellowish-white powdery substance on his shirt collar and sleeve. Faint acrid smell mixed with the industrial detergent.
 - **The Bottle:** Empty bottle of expensive Russian vodka on the concrete floor near the basket. Label still visible.
 - **The Room:** Smells like industrial detergent and something chemical. Something wrong. The smell makes people's eyes water.
-- **The Phone:** In Richie's pocket. Screen cracked. Battery dead. Time of last activity: 10:47 PM.
+- **The Phone:** In Richie's pocket. Screen cracked. Battery dead. Time of last screen wake: 10:47 PM. (Note: this was from incoming calls that triggered screen wake — he wasn't using the phone. Someone was trying to reach him.)
 - **The Staging:** Laundry baskets stacked around. Bottles of industrial cleaner on shelves. A card reader for the time clock. Door propped slightly open from inside.
 
 **HOST:** "Let players see the body. Let them react. Irina is crying, speaking Russian. Marco looks frozen. Val is pale."

@@ -14,6 +14,8 @@ First husband Gerald Worthington II died at lake house in Tahoe four years ago. 
 
 BIG REVEAL: Woke up near laundry area at 11:30 PM. Found a vial with chemical residue in her hand. Doesn't remember anything. Panicking all day wondering if she killed him. Has confided in Gloria (who covered for her), terrified of police investigation.
 
+**What She Won't Say (Host Reference — the canonical explanation for the burn and vial):** While wandering the service corridor in a blackout, Pam stumbled into a maintenance closet and knocked over a shelf of industrial cleaning chemicals. The burn is from a splash of bleach concentrate. The vial is a hotel-branded miniature laundry scent bottle she grabbed while disoriented — the kind left in rooms as an amenity. This explains both clues without implicating her in the poisoning, while keeping her presence near the crime scene legitimately suspicious.
+
 **Key Relationships:**
 - **Gloria Reyes**: Genuine best friend. Met at Tampa charity gala. Gloria covers for blackouts—drives her home, makes excuses, holds her hair. Most real relationship either has.
 - **Irina Volkov**: Pam went to laundry room looking for aspirin during blackout. Irina may have seen Pam near body. Witness and suspect linked by proximity.

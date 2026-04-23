@@ -108,7 +108,7 @@ Triple-layered and devastating:
 4. Planning to flee to Barcelona with fake passport
 5. Dex recruited him at nineteen
 6. Carries unprocessed grief over Diego's death from Richie's bad intelligence
-7. In a secret situationship with Irina — they know each other's deepest truths, sleep together, and both know it can't last
+7. In a secret situationship with Irina — they know each other's deepest truths, sleep together, and both know it can't last. Dex and Gloria both know about the situationship: Irina confided in Dex, and Gloria knows everything that happens around her son.
 
 ---
 

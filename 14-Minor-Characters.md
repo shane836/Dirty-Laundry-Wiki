@@ -11,7 +11,7 @@ These are optional additions—not suspects. Their role: ask expository question
 
 **Role:** Hired to document the event professionally. Photographing everything across the three-day conference for the organizers' portfolio.
 
-**Why NOT a Suspect:** Arrived with a broken wrist from a surfing accident the day before. Dominant hand in a cast. Physically incapable of administering poison, moving the body, or committing the crime. Medical records confirm the break and cast application time-stamped 36 hours before the murder.
+**Why NOT a Suspect:** Arrived with a broken wrist from a surfing accident the day before. Dominant hand in a cast. Physically incapable of administering poison, moving the body, or committing the crime. Medical records confirm the break and cast application time-stamped 36 hours before the murder. He's adapted — holds his camera in his left hand, shows photos on his phone screen, gestures with his cast for emphasis. The broken wrist hasn't slowed him down, but it has made him more reliant on talking than doing.
 
 **What He Knows:**
 - Photographed Val and Richie in a heated argument on the beach the day before the murder. Val crying, Richie pointing, standing uncomfortably close.
@@ -29,11 +29,11 @@ These are optional additions—not suspects. Their role: ask expository question
 ### MINOR 2: DESTINY RIVERS
 **The Influencer**
 
-**Era:** Early twenties, ring light energy, phone battery always at 3%, accent that suggests she learned English from TikTok.
+**Era:** Early twenties, ring light energy, phone battery always at 3%, accent that suggests she learned her influencer vocabulary from TikTok.
 
 **Role:** Instagram and TikTok influencer invited as a "content partner" for the conference. Filming everything, posting Stories, creating behind-the-scenes content.
 
-**Why NOT a Suspect:** Live-streaming on Instagram Stories continuously from 8:30 PM to 11:45 PM. Entire evening is documented with precise timestamps. Hundreds of viewers confirm her location minute-by-minute in real-time. She never left the main party area. Phone geolocation and network data support continuous streaming.
+**Why NOT a Suspect:** Live-streaming on Instagram Stories continuously from 8:30 PM to 11:45 PM. Entire evening is documented with precise timestamps. Hundreds of viewers confirm her location minute-by-minute in real-time. She never left the main party area. Phone geolocation and network data support continuous streaming. Her stream covered the pool and courtyard. Her balcony has only a partial sightline to the service wing — most of the stream shows guests at the party. The one useful detail (Val's back door) was captured because Destiny panned her camera during an Instagram Story about the hotel architecture.
 
 **What She Knows:**
 - Filmed Pam getting progressively drunker throughout the evening. Watched the transformation from "fun aunt" energy to something darker and more aggressive. "She went from 'fun aunt' to 'scary aunt' in two hours, bestie."
@@ -70,29 +70,13 @@ These are optional additions—not suspects. Their role: ask expository question
 
 ---
 
-### MINOR 4: ROSA MARTINEZ
-**The Night Manager**
+### ~~MINOR 4: ROSA MARTINEZ~~ — MOVED TO ROUND 2 AS MANDATORY HOST NPC
 
-**Era:** Late thirties, all business, the kind of competence that keeps a luxury hotel running while everyone else falls apart.
-
-**Role:** Night shift manager overseeing front desk operations, staff coordination, security protocols, and hotel logistics. Knows the building layout, staff schedules, and security systems better than anyone except maintenance.
-
-**Why NOT a Suspect:** Continuous video call with corporate office headquarters from 9 PM to 11 PM (quarterly review meeting). The call is logged and recorded by both the hotel system and corporate server. Computer screen activity shows no interruption. Witnesses on the call can confirm her presence.
-
-**What She Knows:**
-- Master key card logs: someone used a master key to access the service area at exactly 10:07 PM. Only four people have master keys: Rosa (locked in video call with computer monitoring), Irina (assigned to laundry), Marco (valet—needs to access service areas), and maintenance staff (off-island at the time).
-- Val's suite has a back staircase that was propped open with a doorstop around 9:30 PM. "It's supposed to be closed and locked. Fire code violation. Someone deliberately kept it accessible."
-- Doug arrived at midnight through the SERVICE entrance, not the front desk entrance. "In five years, no guest has ever 'accidentally' used that entrance. He knew exactly where he was going."
-- Richie's phone was ringing in his room at 11 PM. No one answered. Do Not Disturb light was on. Last call came in at 10:58 PM. He was either dead or ignoring it.
-
-**Questions She Can Ask:**
-- *To Marco, official tone:* "Marco, can you explain the master key swipe at 10:07 PM in the service corridor? Yours was checked out. Where were you, and who borrowed it?"
-- *To Val, businesslike:* "Ms. Val, your back staircase was propped open with a doorstop around 9:30. Fire code violation. Who propped it open and why?"
-- *To Doug, directly:* "Duke, you came through the service entrance at midnight. No guest has ever 'accidentally' used that entrance. You knew exactly where you were going. Why?"
+> **Rosa has been reclassified as a mandatory host-controlled character. She is no longer an optional minor character. See the Round 2 document for her full scripted role, evidence drops, and timeline speech. She must be present in every game.**
 
 ---
 
-### MINOR 5: REVEREND JAMES "JIMMY" WHITFIELD
+### MINOR 4: REVEREND JAMES "JIMMY" WHITFIELD
 **The Conference Chaplain**
 
 **Era:** Early sixties, silver fox energy, dog collar with a Hawaiian shirt, spiritual advisor to the morally bankrupt.
@@ -103,9 +87,10 @@ These are optional additions—not suspects. Their role: ask expository question
 
 **What He Knows:**
 - Richie came to private confession two days before the murder. Distraught, speaking in fragments. "Terrible things," "a woman he'd hurt," "a family he'd destroyed," "people who would kill him." Richie said prayer wasn't going to cut it. "I've gone too far."
-- Gloria came to confessional, worried about her son making bad choices. Said: "I would do anything to protect my children. Anything." The way she said "anything" suggested it meant something different than typical parental love. Her eyes suggested willingness.
+  - **HOST NOTE — Path-Dependent Framing:** In all murder paths (Paths 1–9), Jimmy emphasizes fear, not resolve: *"He didn't sound like a man planning to die. He sounded like a man who expected to be killed. There's a difference. One is acceptance. The other is dread. Richie was dreading something."* In Path 10 (Suicide) only, Jimmy emphasizes finality: *"He didn't sound afraid of someone else. He sounded like he'd already decided something. Like he was settling accounts before closing them."*
+- Gloria came to confessional at approximately 7:30 PM — before the after-party began. Worried about her son making bad choices. Said: "I would do anything to protect my children. Anything." The way she said "anything" suggested it meant something different than typical parental love. Her eyes suggested willingness.
 - Saw Dex leaving Irina's staff quarters early morning (5 AM) with two cups of coffee. "Unlikely friendship, or something more? They made eye contact like they shared something intimate."
-- Overheard Zane saying to himself in the courtyard: "She's going to kill me. She's actually going to kill me." Sounded literal, not hyperbolic. Probably about Val.
+- Overheard Zane saying to himself in the courtyard: "She's going to kill me. She's actually going to kill me." He sounded desperate — the way people sound when they realize a financial situation has become existential. The kind of fear that's about losing everything, not about physical danger.
 
 **Questions He Can Ask:**
 - *To Val, priestly gravity:* "Richie came to confession very troubled two days ago. He said he'd hurt a woman badly. Val, was that you? What did you do about it?"

@@ -30,7 +30,7 @@ Boundaries: no violence against families, no drugs near schools. But cross her a
 - Unaware Marco is skimming $5K/month
 
 **Alibi:**
-- **Plausible:** Conference room with two attendees. Visibly engaged, opposite side of hotel from laundry. Two independent witnesses, though both owe her favors.
+- **Plausible:** Conference room with Gerald Finch, a tax attorney from Houston, and Lorraine Chu, a wealth manager from Vancouver. Both owe Gloria professional favors. Both will confirm anything she asks. Visibly engaged, opposite side of hotel from laundry.
 - **Implausible:** Side exit to courtyard, three-minute walk to service area. Doesn't need to do own dirty work. Orchestration through Irina is her style.
 
 **Motive: EXTREME** (9/10)

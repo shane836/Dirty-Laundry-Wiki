@@ -18,6 +18,27 @@
 
 ---
 
+### HOST NPC: ROSA MARTINEZ (MANDATORY)
+
+**Rosa Martinez is a mandatory host-controlled character. She is not optional. The host must play Rosa in every game — she delivers the lockdown, the master key inventory, the service entrance log, the timeline speech, and the pivotal accusation against Marco. Without her, Round 2 has no structure.**
+
+Rosa is the night manager: late thirties, all business, the kind of competence that keeps a luxury hotel running while everyone else falls apart. Night shift manager overseeing front desk operations, staff coordination, security protocols, and hotel logistics. Knows the building layout, staff schedules, and security systems better than anyone except maintenance.
+
+**Why NOT a Suspect:** Continuous video call with corporate office headquarters from 9 PM to 11 PM (quarterly review meeting). The call is logged and recorded by both the hotel system and corporate server. Computer screen activity shows no interruption. Witnesses on the call can confirm her presence.
+
+**What She Knows (deliver these throughout Round 2 as scripted below):**
+- Master key card logs: someone used a master key to access the service area at exactly 10:07 PM. Only four people have master keys: Rosa (locked in video call), Irina (assigned to laundry), Marco (valet), and maintenance staff (off-island). There is also an owner's override card — it bypasses the standard master key system and can access any floor or service area. Only one exists. It belongs to whoever owns this hotel.
+- Val's suite has a back staircase that was propped open with a doorstop around 9:30 PM. Fire code violation. Someone deliberately kept it accessible.
+- Doug arrived at midnight through the SERVICE entrance, not the front desk. In five years, no guest has ever "accidentally" used that entrance.
+- The last activity on Richie's phone was incoming calls after 10 PM that triggered screen wake. He wasn't using his phone — someone was trying to reach him.
+
+**Questions She Can Ask:**
+- *To Marco, official tone:* "Marco, can you explain the master key swipe at 10:07 PM in the service corridor? Yours was checked out. Where were you, and who borrowed it?"
+- *To Val, businesslike:* "Ms. Val, your back staircase was propped open with a doorstop around 9:30. Fire code violation. Who propped it open and why?"
+- *To Doug, directly:* "Duke, you came through the service entrance at midnight. No guest has ever 'accidentally' used that entrance. You knew exactly where you were going. Why?"
+
+---
+
 ### THE ALIBI ROUND (0:05–0:25)
 ### **Where Was Everyone Between 9 PM and 11 PM?**
 
@@ -77,11 +98,11 @@
 
 #### **GLORIA** — *"Conference room. Discussing tax strategies."*
 
-**Alibi:** "Conference room discussing advanced tax shelter strategies with two colleagues. We vouch for each other. We were working on a presentation for tomorrow." Smooth. Prepared.
+**Alibi:** "Conference room discussing advanced tax shelter strategies with Gerald Finch and Lorraine Chu. We vouch for each other. We were working on a presentation for tomorrow." Smooth. Prepared.
 
-**What She Won't Say:** The two colleagues owe her money. One of them owes her a lot of money. She's reminding them with this "alibi." The meeting is real, but it's also leverage.
+**What She Won't Say:** Gerald and Lorraine both owe her professional favors. She's reminding them with this "alibi." The meeting is real, but it's also leverage.
 
-**Crack in the Alibi:** The witnesses seem very eager to confirm. Maybe too eager. When pressed, they both nod before Gloria even speaks.
+**Crack in the Alibi:** Gerald and Lorraine seem very eager to confirm. Maybe too eager. When pressed, they both nod before Gloria even speaks.
 
 **Key Detail:** Gloria's hands are steady. Her voice is calm. But she checks her watch. Three times.
 
@@ -218,6 +239,8 @@ Chip (if present, or HOST): "That seemed deliberate. Richie doesn't stumble. He 
 
 **EVIDENCE DROP:** A waitress confirms: Dex said something to Richie before the spill. She didn't hear what, but Richie's face changed, and then the margarita went everywhere.
 
+Zane adds, more quietly: "And then at the lobby bar, Richie knocked my margarita straight onto my jacket. Soaked my hardware wallet. Twice in two days. I started thinking it wasn't clumsiness."
+
 ---
 
 #### **REVELATION 5: Dex's Evasiveness (19 minutes in)**
@@ -246,25 +269,23 @@ Uncomfortable silence.
 
 #### **REVELATION 6: The Timeline (23 minutes in)**
 
-Rosa stands up. "Let's talk about the timeline. Richie was alive at 8 PM. He ordered vodka at 7 PM, sent to his room. He was scheduled to give a toast at 9 PM. He didn't show. Irina found him at 10:45 PM. That's a two-hour window. Where was everyone between 10 and 10:30?"
+Rosa stands up. "Let's talk about the timeline. Richie was alive at 8 PM. He ordered vodka at 7 PM, sent to his room. He was scheduled to give a toast at 9 PM. He didn't show. Irina found him at 10:45 PM. That's a two-hour window. The last activity on Richie's phone was incoming calls after 10 PM that triggered screen wake. He wasn't using his phone — someone was trying to reach him. Where was everyone between 10 and 10:30?"
 
 **Room goes quiet.**
 
-Rosa: "A master key was used to access the service area at 10:07 PM. Only four people have master keys. Me—I was on a video call with corporate. Irina—she was in the laundry. Marco—his key was checked out. And maintenance—he's off-island."
+Rosa: "A master key was used to access the service area at 10:07 PM. Only four people have master keys. Me—I was on a video call with corporate. Irina—she was in the laundry. Marco—his key was checked out. And maintenance—he's off-island. There is also an owner's override card — it bypasses the standard master key system and can access any floor or service area. Only one exists. It belongs to whoever owns this hotel."
 
 She looks at Marco. "So, Marco, where was your master key at 10:07 PM?"
 
-Marco: "I... I parked a car. Someone asked me to move a car."
+Marco: "I... I was moving a car into the service garage. Routine valet task. It's logged in my records."
 
-"Who?"
+Rosa: "And you used your master key to access the service area for that?"
 
-"I don't remember."
+Marco: "Yes. To move the car. That's it."
 
-"Did you or did you not use your master key?"
+Rosa: "Then why do you look like you're about to be sick?"
 
-"Not... not intentionally."
-
-Rosa: "That's not an answer."
+Marco doesn't answer.
 
 ---
 
@@ -323,7 +344,7 @@ Val: "I told you. Trying to figure out how to solve a problem. Without involving
 
 Zane: "But we didn't solve it. We just... waited. Waited to see if Richie would show up."
 
-**HOST NOTE:** Val and Zane are telling the truth. They have an alibi that works, but it makes them look guilty of something else. That's the story. That's the tension.
+**HOST NOTE:** Val and Zane are telling the truth — unless you are running Path 1, in which case Val left for approximately 20 minutes around 10 PM and Zane will only admit this under pressure in Round 3. In all other paths, their alibi holds. Either way, their alibi makes them look guilty of something else. That's the story. That's the tension.
 
 ---
 

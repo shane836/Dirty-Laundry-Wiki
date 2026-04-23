@@ -17,7 +17,7 @@
 - Irina knows everyone's secrets (hidden cartel observer)
 - Nobody knows Dex's real identity except Gloria
 - Nobody knows Marco is Gloria's son except Dex, Irina, and Gloria — **[needs a reveal beat in gameplay]**
-- Nobody knows about Marco and Irina's situationship except the two of them
+- Marco and Irina's situationship is known to Dex (Irina confided in him — emotional honesty even without encouragement) and Gloria (she knows everything that happens around her son). Dex and Gloria both know; the other suspects do not.
 
 ### Love, Obsession, Resentment
 - Zane is in love with Val (unrequited)

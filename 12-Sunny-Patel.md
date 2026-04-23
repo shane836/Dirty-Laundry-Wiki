@@ -2,6 +2,8 @@
 
 **Tagline:** *Federal agent trained to be invisible in plain sight. Failing both the agent part and the human part.*
 
+> **HOST NOTE:** Sunny can be played by any gender — adjust pronouns accordingly throughout all documents.
+
 **Era:** Early forties. Forgettable suit. Aggressive blandness trained to be invisible. Competent in every way except the ones that matter.
 
 **Public Persona:** Least memorable person at conference. Consulting talk—"synergy," "optimization," "leverage," "stakeholder alignment." Business cards from "Stratton Consulting Group." Forgettable suit in forgettable color. Ability to blend into any corporate environment. Background music of the room. Nobody remembers his face five minutes after meeting.

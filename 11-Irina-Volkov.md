@@ -51,7 +51,7 @@ Richie was kind to her—shared Russian heritage. He spoke Russian to her, remem
 - May have deliberately sabotaged poisoning (still not sure)
 - Has teenage daughter and dying mother
 - Richie was kind to her—only person who treated her as human
-- In a secret situationship with Marco — the only real intimacy in her life
+- In a situationship with Marco — the only real intimacy in her life. Dex knows (Irina confided in him) and Gloria knows (she knows everything that happens around her son). The other suspects do not know.
 - Dex is in love with her (she doesn't know the depth — and doesn't know Dex doesn't know about Marco)
 
 ---

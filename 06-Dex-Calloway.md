@@ -6,6 +6,8 @@ Mid-thirties. Good looks from genetics and not caring about aging. Old enough to
 ### Public Persona
 Charming, intelligent bartender. Perfect cocktails—he remembers obscure techniques and flavor profiles most bars never attempt. He remembers drink orders after hearing them once. Witty in a philosophical way that makes people feel interesting. A listener. Dangerous because he hears everything and you never know what he'll do with it.
 
+**Real name: Dexter Arango Villareal.** Former logistics coordinator for the Reyes cartel operation, recruited at 22. Left the operation eight years ago after a federal sweep — he was the one who wasn't caught. Gloria knows who he really is. She's the reason he wasn't caught, and he's never been able to walk away from that debt.
+
 ### The Real Story
 **Both versions are true. That's the twist.**
 
@@ -45,7 +47,7 @@ If Dex killed Richie, he killed him partly to protect Marco. Not openly, not con
 **Irina Volkov (Love / Obsession)**
 Unrequited love of devastating intensity. Brings her coffee every morning at 6 AM. Learned her preference by observation. Learning Russian to speak to her in a language that feels personal. She barely notices him — or so he thinks. She's too focused on survival, too traumatized to see that someone is trying to save her. They communicate in glances — he looks for her across the lobby, she nods from a distance, they never speak about what he feels.
 
-What Dex doesn't know: Irina is in a situationship with Marco. The woman Dex is learning Russian for is spending her nights with the kid Dex recruited into the cartel. If this surfaces, it doesn't just break Dex's heart — it detonates his guilt about Marco and his feelings for Irina simultaneously.
+What Dex knows but won't say: Irina confided in him about her situationship with Marco. The woman Dex is learning Russian for is spending her nights with the kid Dex recruited into the cartel. This knowledge doesn't just break his heart — it detonates his guilt about Marco and his feelings for Irina simultaneously. He carries this silently.
 
 **Marco Reyes (Guilt / Complicated Brotherhood)**
 Recruited him at nineteen. The recruitment is the greatest guilt Dex carries. Marco would've escaped without Dex. Marco would've found different paths. Instead, Dex made him useful to the cartel. Dex made him trapped. Now they have complicated brotherhood: mentorship, shared trauma, unspoken debt. If Dex killed Richie, part of the motive is protecting Marco. If Gloria forced Dex to choose, he'd choose Marco's mother over his own freedom.
