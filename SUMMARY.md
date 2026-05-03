@@ -14,6 +14,7 @@
   * [Irina Volkov](11-Irina-Volkov.md)
   * [Character Relationship Web](07-Relationship-Web.md)
 * [Minor Characters](14-Minor-Characters.md)
+* [Costume Guide](18-Costume-Guide.md)
 * Plot / Gameplay Structure
   * [Round 1](15-Round-1.md)
   * [Round 2](16-Round-2.md)

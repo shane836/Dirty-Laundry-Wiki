@@ -27,6 +27,9 @@ Welcome to the wiki hub for DIRTY LAUNDRY, a murder mystery dinner party game. N
 ### Optional Content
 - [14-Minor-Characters.md](14-Minor-Characters.md) — Five optional minor characters for depth
 
+### Player Resources
+- [18-Costume-Guide.md](18-Costume-Guide.md) — Spoiler-free costume suggestions for all characters
+
 ### Gameplay Structure
 - [13-Structural-Notes.md](13-Structural-Notes.md) — Design principles and investigation layers
 - [15-Round-1.md](15-Round-1.md) — "The After-Party" (45 minutes)
