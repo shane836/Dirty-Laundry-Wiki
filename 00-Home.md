@@ -29,6 +29,7 @@ Welcome to the wiki hub for DIRTY LAUNDRY, a murder mystery dinner party game. N
 
 ### Player Resources
 - [18-Costume-Guide.md](18-Costume-Guide.md) — Spoiler-free costume suggestions for all characters
+- [19-CHARACTER-SUMMARY.md](19-CHARACTER-SUMMARY.md) — Easy reference of who all the characters are
 
 ### Gameplay Structure
 - [13-Structural-Notes.md](13-Structural-Notes.md) — Design principles and investigation layers
