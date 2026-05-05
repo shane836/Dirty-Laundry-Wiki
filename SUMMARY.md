@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Setting and Premise](README.md)
+* [Home](README.md)
+* [Setting and Premise](01-Setting-and-Premise.md)
 * [The Victim](02-The-Victim.md)
 * [Major Characters](major-characters/README.md)
   * [Val Montecito](major-characters/03-Val-Montecito.md)

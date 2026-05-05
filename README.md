@@ -1,67 +1,28 @@
-# Setting and Premise
+# Dirty Laundry: Murder in the Caymans
 
-### SECTION 1: TITLE PAGE & LOGLINE
+This is a murder mystery dinner party game.
 
-#### Title & Subtitle
+## Table of Contents
 
-**DIRTY LAUNDRY: MURDER IN THE CAYMANS**\
-&#xNAN;_&#x41; Murder Mystery Dinner Party Game — Revised Show Bible_
-
-#### Players
-
-* 10 Main Characters
-* 5 Optional Minor Characters
-* 1 Host
-
-#### Logline
-
-When an offshore tax attorney organizing a "tax optimization" conference in the Caymans has a come-to-Jesus moment and threatens to blow the whistle on everyone's dirty deals, somebody decides his laundry—literal and figurative—needs to be aired permanently.
-
-#### Tone
-
-**Tropical noir.** Succession meets Weeds on a Caribbean beach. Everyone's smiling, everyone's guilty, everyone's lying. Tax Haven Chic.
-
-#### Theme
-
-Corruption wears sunglasses. Money makes people beautiful and terrible. When everybody's got secrets, anybody could be the killer.
-
-***
-
-### SECTION 2: SETTING & PREMISE
-
-#### Location: "Heathens Hollow"
-
-An inland getaway in The Grand Caymans, present day. A boutique hotel hosting the tail end of an exclusive **"Tax Optimization Seminar"**—which is really a networking event for wealthy people looking to hide money, launder proceeds, and avoid anything resembling accountability.
-
-The conference was organized by **Richard "Richie" Rathbone**, a Russian-born offshore tax attorney turned tax influencer.
-
-**The Physical Space:**
-
-* Lobby and courtyard of a boutique hotel
-* Palm trees. Tiki torches. A pool nobody swims in
-* Real business happens at the bar
-* Service areas where housekeeping works late
-* Private bungalows scattered across manicured grounds
-* That particular Caribbean ambiance where paradise feels slightly sinister
-
-#### The Night of the Murder
-
-**Timeline:** It's the after-party two hours after the conference's closing dinner.
-
-**Atmosphere:**
-
-* Attendees are buzzing with cocktails, cocaine, and the particular energy of people who just spent three days learning new ways to commit white-collar crime
-* Richie was supposed to give a final toast—a speech he described as **"something nobody will want to miss"**
-* He never showed
-
-**The Discovery:** By midnight, a housekeeper discovered his body **face-down in a laundry basket in the service area**, with **poison on the collar of his dress shirt**.
-
-#### The Crucial Facts
-
-* Everyone was at the conference
-* Everyone had opportunity
-* Everyone had motive
-
-***
-
-[← Back to Home](00-Home.md)
+- [Setting and Premise](01-Setting-and-Premise.md)
+- [The Victim](02-The-Victim.md)
+- [Major Characters](major-characters/README.md)
+  - [Val Montecito](major-characters/03-Val-Montecito.md)
+  - [Marco Reyes](major-characters/04-Marco-Reyes.md)
+  - [Zane Nakamura](major-characters/05-Zane-Nakamura.md)
+  - [Dex Calloway](major-characters/06-Dex-Calloway.md)
+  - [Gloria Reyes](major-characters/08-Gloria-Reyes.md)
+  - [Pam Worthington](major-characters/09-Pam-Worthington.md)
+  - [Doug Kaminski](major-characters/10-Doug-Kaminski.md)
+  - [Sunny Patel](major-characters/12-Sunny-Patel.md)
+  - [Irina Volkov](major-characters/11-Irina-Volkov.md)
+  - [Character Relationship Web](major-characters/07-Relationship-Web.md)
+  - [Character Summary](major-characters/19-CHARACTER-SUMMARY.md)
+- [Minor Characters](14-Minor-Characters.md)
+- [Costume Guide](18-Costume-Guide.md)
+- [Plot / Gameplay Structure](plot-gameplay-structure/README.md)
+  - [Round 1](plot-gameplay-structure/15-Round-1.md)
+  - [Round 2](plot-gameplay-structure/16-Round-2.md)
+  - [Rounds 3 & 4](plot-gameplay-structure/17-Killer-Paths.md)
+  - [Structural Notes](plot-gameplay-structure/13-Structural-Notes.md)
+  - [Plot Summaries — Gloria & Suicide Paths](Plot%20Summaries%20-%20Gloria%20and%20Suicide%20Paths.md)
