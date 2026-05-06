@@ -1,2 +1,0 @@
-# Plot / Gameplay Structure
-
