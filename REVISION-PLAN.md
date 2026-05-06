@@ -181,7 +181,7 @@ Left unassigned per Shane's direction. Ghost-style Diego also unassigned.
 - Runs the after-party music. Full view of arrivals and departures from DJ booth.
 - Saw Doug arrive through service entrance early. Saw someone on the back staircase ~10 PM. Heard Gloria's tense Spanish phone call.
 
-**Minor 8: Tomás Herrera** — The Maintenance Guy
+**Minor 8: Pepe Stevens** — The Maintenance Guy
 - Supposed to be off-island but was actually still on property.
 - Knows the service stairwell exit was propped open since 6 PM. Noticed chemical supplies missing. Saw Irina with a garment bag at 7 PM.
 

@@ -1,4 +1,4 @@
-# Olga Davenport — The Retired Lawyer
+# Zoya Davenport — The Retired Lawyer
 
 **Female | Late 50s | MINOR CHARACTER (Not a suspect)**
 

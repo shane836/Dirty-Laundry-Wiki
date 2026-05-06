@@ -1,4 +1,25 @@
-# Sasha Kimura — Paloma's Assistant
+# YOUR GAME PACKET — Sasha Kimura
+## Dirty Laundry: Murder in the Caymans
+
+> **READ BEFORE THE PARTY:** Sections 1, 2, and 3.
+> **DO NOT READ AHEAD:** Sections 4–7 are your round cards. Wait for the host to call each round before reading.
+
+---
+
+## 1. Your Costume
+
+**Female | Mid 20s**
+Business casual: blouse, slacks, comfortable flats. Looks slightly harried. Clipboard in hand.
+
+---
+
+## 2. Your Props
+
+Clipboard, sealed envelope with USB drive inside, conference program
+
+---
+
+## 3. Your Character
 
 **Female | Mid 20s | MINOR CHARACTER (Not a suspect)**
 
@@ -28,3 +49,53 @@ You were at the front desk handling conference wrap-up logistics from 7 PM onwar
 ## Your Props
 
 Clipboard, sealed envelope (with USB drive prop inside), conference program
+
+---
+
+## ⛔ STOP — Wait for the host to call "ROUND 1 — 8:00 PM"
+
+---
+
+## 4. Round 1 — "The After-Party"
+*In-game time: 8:00 PM – 10:00 PM*
+
+### SASHA KIMURA (Paloma's Assistant)
+- You're at the front desk. You arrive in the lobby when you hear the scream. You look terrified.
+
+---
+
+## ⛔ STOP — Wait for the host to call "ROUND 2 — 10:00 PM"
+
+---
+
+## 5. Round 2 — "Everyone's a Suspect"
+*In-game time: 10:00 PM – 11:00 PM*
+
+### SASHA KIMURA
+- Mention Paloma was acting erratic all week. Paranoid. Drinking heavily.
+- **Do NOT reveal the envelope yet.** Save for Round 3.
+
+---
+
+## ⛔ STOP — Wait for the host to call "ROUND 3 — 11:00 PM"
+
+---
+
+## 6. Round 3 — "The Investigation"
+*In-game time: 11:00 PM – Midnight*
+
+### SASHA KIMURA
+- **Reveal the envelope.** "Paloma gave me this two days ago. She said if anything happened to her, give it to the authorities." Hand it to the Mentalist.
+- The USB drive contains files on everyone. The Mentalist can reference this as additional evidence.
+
+---
+
+## ⛔ STOP — Wait for the host to call "ROUND 4 — Midnight"
+
+---
+
+## 7. Round 4 — "The Reveal"
+*In-game time: Midnight*
+
+### SASHA KIMURA
+- Hold the envelope. The USB drive. Paloma knew this was coming. She tried to leave evidence. It wasn't enough to save her, but it's enough to prove everything.

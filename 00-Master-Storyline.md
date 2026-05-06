@@ -18,7 +18,7 @@ Gloria Reyes killed Paloma Rathbone. She used two methods:
 ## ROUND 1 — "THE AFTER-PARTY"
 ### In-Game Time: 8:00 PM – 10:00 PM | Real Duration: ~30 minutes
 
-### Opening (The Detective reads aloud)
+### Opening (The Mentalist reads aloud)
 
 "Welcome to Heathens Hollow — a boutique hotel in the Grand Cayman Islands. It's 8 PM on a Friday night. The Tax Optimization Seminar just wrapped its closing dinner. Now it's after-party time in the courtyard.
 
@@ -48,13 +48,13 @@ Players circulate freely in the outdoor area. Public personas only — no deep s
 
 ### The Vibe Shifts (9 PM — Paloma's a no-show)
 
-**Detective announces:** "It's 9 PM. Paloma was supposed to give her toast five minutes ago. The stage is empty. The mic is waiting."
+**Mentalist announces:** "It's 9 PM. Paloma was supposed to give her toast five minutes ago. The stage is empty. The mic is waiting."
 
 Players may joke. Val looks annoyed, checks her phone, calls Paloma's room — no answer. Dex confirms the vodka delivery. Tension builds. Something feels off.
 
 ### The Body
 
-**Detective interrupts everything:**
+**Mentalist interrupts everything:**
 
 "A SCREAM from the service area. Irina comes running out — face white, hands shaking, speaking panicked Russian, then broken English:
 
@@ -70,15 +70,19 @@ The music stops."
 
 ### The Lockdown
 
-**Detective reveals their role:**
+**The Mentalist takes the room:**
 
-"My name is Remy Marchand. I'm a private investigator, hired by this hotel's insurance company. I was here tonight as a guest — observing. That's over now.
+"My name is Fortunado Marchand. You hired me to read minds tonight. Card tricks. Cold readings. A bit of theater for the after-party.
+
+[Pause. Slow look around the room.]
+
+Well. Turns out one of you has been hiding more than I expected.
 
 [Dramatically shuts the gates / closes the doors]
 
-Nobody leaves. Police are en route but delayed — an incident on the main island. They'll be here in two hours. Until then, I'm running this investigation.
+Nobody leaves. Police are en route but delayed — an incident on the main island. They'll be here in two hours. Until then, you're going to talk to me. And I'm going to read every face in this room until I find the lie that killed Paloma Rathbone.
 
-One of you did this. And we're going to figure out who."
+One of you did this. I can already feel it."
 
 **Flip the timestamp board to ROUND 2 — 10:00 PM.**
 
@@ -91,7 +95,7 @@ One of you did this. And we're going to figure out who."
 
 Move everyone inside (main structure). The party is over. The mood is tense.
 
-**Detective:** "We're all going to sit down, and we're going to go around the room. Where was everybody between 9 and 11 PM? Before you answer — we have key card logs, security footage, and witnesses. Lies will get worse."
+**Mentalist:** "We're all going to sit down, and we're going to go around the room. Where was everybody between 9 and 11 PM? Before you answer — we have key card logs, security footage, and witnesses. Lies will get worse."
 
 ### The Alibi Round
 
@@ -134,17 +138,17 @@ Zane mentions Paloma "accidentally" spilled a margarita on him at dinner — twi
 **Revelation 5 — Dex and Doug:**
 Someone notices: "Wait, do you two know each other?" Dex and Doug clearly have history. Neither has mentioned it.
 
-**Revelation 6 — The Timeline (Rosa delivers data to Detective):**
+**Revelation 6 — The Timeline (Rosa delivers data to Mentalist):**
 
-Rosa hands the Detective key card logs. **Detective reads aloud:**
+Rosa hands the Mentalist key card logs. **Mentalist reads aloud:**
 
 "A master key was used to access the service area at 10:07 PM. Only four people have master keys — Rosa, who was on a video call with corporate. Irina, who was in the laundry. Marco, whose key was checked out. And maintenance, who's off-island. There's also an owner's override card that bypasses the standard system. Only one exists. It belongs to whoever owns this hotel."
 
-Detective looks at Marco: "Where was your master key at 10:07?"
+Mentalist looks at Marco: "Where was your master key at 10:07?"
 
 Marco: "I was moving a car into the service garage. Routine valet task. It's logged."
 
-Detective: "Then why do you look like you're about to be sick?"
+Mentalist: "Then why do you look like you're about to be sick?"
 
 **End Round 2.** Flip timestamp to ROUND 3 — 11:00 PM. Break.
 
@@ -159,7 +163,7 @@ This is the longest round. Evidence piles up. Suspects are eliminated one by one
 
 The owner's override card was swiped at 10:05 PM on Paloma's floor. Only Val has that card.
 
-Detective: "Ms. Montecito. Your override card accessed Paloma's floor two minutes before the master key hit the service area. What were you doing on Paloma's floor at 10:05 PM?"
+Mentalist: "Ms. Montecito. Your override card accessed Paloma's floor two minutes before the master key hit the service area. What were you doing on Paloma's floor at 10:05 PM?"
 
 Val denies it. Zane looks panicked. Under pressure, Zane admits Val left the suite for "maybe twenty minutes" around 10. "She said she was getting ice."
 
@@ -177,7 +181,7 @@ Zane under pressure: "She's going to kill me. Gloria is going to kill me." Playe
 
 ### Beat 3 — Gloria and Marco's relationship revealed
 
-Olga (the retired lawyer) has been watching quietly. She speaks up:
+Zoya (the retired lawyer) has been watching quietly. She speaks up:
 
 "I've known Gloria for thirty years. I never forget a face. Marco — Marco is her son."
 
@@ -185,7 +189,7 @@ Silence. Gloria and Marco's careful distance at the party wasn't professionalism
 
 ### Beat 4 — Diego's death
 
-Olga continues: "Gloria's firstborn, Diego. Killed two years ago. Twenty-two years old. Paloma had something to do with it — fed bad intelligence to a rival operation. Diego was collateral."
+Zoya continues: "Gloria's firstborn, Diego. Killed two years ago. Twenty-two years old. Paloma had something to do with it — fed bad intelligence to a rival operation. Diego was collateral."
 
 If Diego's ghost is in the room, this is their moment. They can confirm, add emotional weight, tell the story from their perspective.
 
@@ -193,7 +197,7 @@ Marco's rage about the car scratch now makes sense. It was never about the car.
 
 ### Beat 5 — The poisoned shirt traced
 
-The residue on Paloma's collar is analyzed (Detective reveals): a slow-acting dermal toxin. Not something you find at a hotel. Someone supplied it, someone applied it through the laundry system.
+The residue on Paloma's collar is analyzed (Mentalist reveals): a slow-acting dermal toxin. Not something you find at a hotel. Someone supplied it, someone applied it through the laundry system.
 
 Destiny's footage shows Irina carrying a garment bag to Paloma's floor at 7 PM — moving fast, avoiding cameras.
 
@@ -203,13 +207,13 @@ Under pressure, Irina breaks. She drops the halting English. Clear voice, precis
 
 But the toxin was slow-acting. It would have weakened Paloma over hours but not killed her quickly. Something else finished the job.
 
-Detective reveals autopsy finding: a puncture wound on Paloma's neck. A fast-acting paralytic injection. Different compound from the shirt.
+Mentalist reveals autopsy finding: a puncture wound on Paloma's neck. A fast-acting paralytic injection. Different compound from the shirt.
 
 Two separate attacks. The shirt was the setup. The injection was the kill shot.
 
 ### Beat 7 — The insulin pen
 
-Gloria's purse is searched (Detective asks to see it, or another player challenges her). She carries an insulin pen. She's not diabetic. Traces of a paralytic agent.
+Gloria's purse is searched (Mentalist asks to see it, or another player challenges her). She carries an insulin pen. She's not diabetic. Traces of a paralytic agent.
 
 ### Beat 8 — Sunny's cover blown
 
@@ -221,7 +225,7 @@ This reframes everything. Paloma wasn't just killed over personal grudges. Her t
 
 ### Beat 9 — Gloria's alibi cracks
 
-Gerald Finch (under pressure from the Detective or other players) cracks: "Gloria stepped out for maybe five or ten minutes around 10:25. She said she was going to the restroom. I didn't think it was important."
+Gerald Finch (under pressure from the Mentalist or other players) cracks: "Gloria stepped out for maybe five or ten minutes around 10:25. She said she was going to the restroom. I didn't think it was important."
 
 The side exit from the conference room connects to the service corridor. Three minutes to the laundry area.
 
@@ -236,7 +240,7 @@ Marco, finally: "I saw her. Near the service stairwell. Around 10:25. I didn't s
 
 ### The Vote
 
-Detective: "You've heard the evidence. You've heard the alibis. You've seen the cracks. It's time to vote. Who killed Paloma Rathbone?"
+Mentalist: "You've heard the evidence. You've heard the alibis. You've seen the cracks. It's time to vote. Who killed Paloma Rathbone?"
 
 Players vote. (Can be verbal, written ballot, or show of hands.)
 
@@ -270,7 +274,7 @@ She looks at Marco. "I'm sorry you had to see this."
 
 ### Aftermath
 
-The Detective wraps: police sirens arrive. Gloria is taken away. Marco is devastated. The room sits with the question the game has been building toward: was Gloria justified? A grieving mother who executed the woman responsible for her son's death? Or a cartel operator who murdered a federal witness to protect her empire?
+The Mentalist wraps: police sirens arrive. Gloria is taken away. Marco is devastated. The room sits with the question the game has been building toward: was Gloria justified? A grieving mother who executed the woman responsible for her son's death? Or a cartel operator who murdered a federal witness to protect her empire?
 
 The answer is both.
 

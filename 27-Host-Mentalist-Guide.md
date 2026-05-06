@@ -1,6 +1,10 @@
-# Host Guide — Remy Marchand, The Detective
+# Host Guide — Fortunado Marchand, The Mentalist
 
-**You are Remy Marchand:** A private investigator hired by the hotel's insurance company. You arrived at the party blending in as a guest. When the body drops, you reveal yourself and take charge. Clipboard, authority, dramatic flair. You're Poirot in a Hawaiian shirt.
+**You are Fortunado Marchand, "Fortunado the Magnificent":** A stage mentalist and mind-reader hired as the evening's entertainment. You've performed for kings, cartel bosses, and three sitting senators — none of whom liked the mirror you held up. You read micro-expressions for a living. You spot tells. You have a showman's instinct to fill silence with theater.
+
+You don't *reveal* yourself when the body drops — you were already on stage. You *take* the room. The police are two hours out. Someone in this room is lying. You can smell it. And you're going to read every face here until you find it.
+
+Your authority comes from three places: (1) you're already MC of the party, (2) you claim — loudly — to detect lies for a living, (3) nobody else is stepping up. Lean on theater. Pocket watch. Slow eye contact. Long pauses. You're Derren Brown in a velvet blazer.
 
 ---
 
@@ -37,23 +41,23 @@
 | Laundry Room / Service Area | Side structure |
 | "The Gates" | Front gate/door — shut dramatically at end of Round 1 |
 
-**Flow:** Round 1 starts outdoors (yard). After the body is found, the Detective moves everyone inside (main structure) for Rounds 2-4. Players can visit the crime scene (side structure) as needed during investigation rounds.
+**Flow:** Round 1 starts outdoors (yard). After the body is found, the Mentalist moves everyone inside (main structure) for Rounds 2-4. Players can visit the crime scene (side structure) as needed during investigation rounds.
 
 ---
 
-## Round-by-Round Detective Script
+## Round-by-Round Mentalist Script
 
 ### ROUND 1 — "The After-Party" (~30 min)
 
 **0:00 — Read the opening monologue** (from Master Storyline). Flip to "ROUND 1 — 8:00 PM."
 
-**0:00-0:20 — Mingle.** Let players circulate. You're blending in as a guest. Be casual. Chat people up. Take mental notes.
+**0:00-0:20 — Work the room as the entertainer.** You're the hired mentalist — do small bits if you like. Card tricks, "I'm getting the letter M, does that mean anything to anyone?" Read the room. Chat people up under the cover of your act. Take mental notes — you'll need them.
 
 **0:20 — "Where's Paloma?"** Announce it's 9 PM in-game. Paloma was supposed to give her toast. She's a no-show. Let tension build. Val calls her room — no answer.
 
 **0:25 — CUE IRINA for the body discovery.** Give Irina the signal. She screams and runs out from the side structure. Guide everyone to the crime scene. Describe what they see (body in basket, residue on shirt, vodka bottle, cracked phone).
 
-**0:27 — Reveal yourself as the Detective.** Read the lockdown speech. Shut the gates. Kill the music.
+**0:27 — Take command of the room.** Drop the showman tone. Read the lockdown speech. Shut the gates. Kill the music.
 
 **0:30 — Move everyone inside.** End of Round 1. Hand out Round 2 cards.
 
@@ -70,7 +74,7 @@
 2. Marco's car scratch rage (Rosa has the incident report)
 3. Pam's spiral and the "we're done" text (send text, Destiny brings up footage)
 4. Margarita spill sabotage (Zane brings up, Dex smiles and doesn't deny)
-5. Dex and Doug know each other (Olga or another player notices)
+5. Dex and Doug know each other (Zoya or another player notices)
 
 **0:25-0:30 — The Timeline.** Rosa delivers the master key data to you. Read it aloud. Confront Marco about the 10:07 swipe. End with: "Someone in this room is a killer. And they're good enough to make it look like chaos."
 
@@ -88,9 +92,9 @@ This is the main event. You're driving the investigation, dropping evidence, and
 |---|---|---|
 | 0:00 | Val's override card | Reveal 10:05 swipe on Paloma's floor. Press Val. Zane admits she left the suite. Nadia saw someone on the staircase. **Val is prime suspect.** |
 | 0:07 | Zane's crisis | Wallet destruction was deliberate. Zane's massive debt to Gloria exposed. Zane cracks: "Gloria is going to kill me." **Zane now looks plausible too.** |
-| 0:12 | Gloria/Marco reveal | Olga drops the bomb: "Marco is Gloria's son." Let the room react. |
-| 0:17 | Diego's death | Olga continues with Diego. Diego's ghost can tell their story. The emotional weight lands. |
-| 0:22 | Poisoned shirt traced | Detective reveals chemical analysis. Destiny confirms garment bag footage. Press Irina. **Irina breaks — drops the halting English, speaks clearly, names Gloria.** |
+| 0:12 | Gloria/Marco reveal | Zoya drops the bomb: "Marco is Gloria's son." Let the room react. |
+| 0:17 | Diego's death | Zoya continues with Diego. Diego's ghost can tell their story. The emotional weight lands. |
+| 0:22 | Poisoned shirt traced | Mentalist reveals chemical analysis. Destiny confirms garment bag footage. Press Irina. **Irina breaks — drops the halting English, speaks clearly, names Gloria.** |
 | 0:27 | Two methods | Reveal the puncture wound. Two separate attacks — shirt and injection. "Who delivered the shirt, and who gave the injection?" |
 | 0:30 | Insulin pen | Search Gloria's purse (ask to see it, or another player challenges her). Not diabetic. Paralytic traces. |
 | 0:33 | Sunny's reveal | Sunny stands and reveals federal agent identity. Paloma was an informant. The stakes go existential. |

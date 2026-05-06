@@ -7,11 +7,11 @@
 
 ## THE VOTE
 
-The Detective addresses the room:
+The Mentalist addresses the room:
 
 "You've heard the evidence. You've heard the alibis. You've seen the cracks. It's time. Who killed Paloma Rathbone?"
 
-Players vote — verbal, written ballot, or show of hands. The Detective tallies.
+Players vote — verbal, written ballot, or show of hands. The Mentalist tallies.
 
 ---
 
@@ -77,7 +77,7 @@ A mother protects her children. Even the dead ones."
 ### DIEGO REYES (Ghost)
 - Watch your mother confess. You're the reason. You don't need to say anything. Your presence is the punctuation.
 
-### OLGA DAVENPORT
+### ZOYA DAVENPORT
 - You saw this coming. Thirty years of knowing Gloria. Nod slowly. "I hoped I was wrong."
 
 ### GERALD FINCH / LORRAINE CHU
@@ -93,7 +93,7 @@ A mother protects her children. Even the dead ones."
 
 ## WRAP-UP
 
-The Detective closes:
+The Mentalist closes:
 
 "Paloma Rathbone was a lot of things — charming, manipulative, brilliant, cruel. She made enemies the way some people make friends: effortlessly and in every direction. But she didn't deserve to die in a laundry basket.
 

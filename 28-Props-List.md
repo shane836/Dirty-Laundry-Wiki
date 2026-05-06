@@ -20,15 +20,15 @@ Give these to each player with their dossier before the party.
 | **Paloma / Dina** | *(See body proxy below)* |
 | **Diego (Ghost)** | None |
 | **Fiona Beaumont** | Camera (real or prop), wrist cast or brace, press pass |
-| **Olga Davenport** | Linen blazer, cocktail glass, glasses on a chain |
+| **Zoya Davenport** | Linen blazer, cocktail glass, glasses on a chain |
 | **Rev. Jimmy** | Dog collar + Hawaiian shirt (essential combo), small notebook, cross necklace |
 | **Destiny Rivers** | Phone (always in hand), ring light or selfie stick |
 | **Lorraine Chu** | Business cards ("Chu Wealth Management"), clutch purse |
 | **Gerald Finch** | Business cards ("Finch & Associates"), loosened tie, handkerchief |
 | **Nadia Osei** | Headphones around neck, playlist printout, DJ name tag |
-| **Tomás Herrera** | Work shirt, tool belt or wrench, master key (the extra one — label it) |
+| **Pepe Stevens** | Work shirt, tool belt or wrench, master key (the extra one — label it) |
 | **Sasha Kimura** | Clipboard, sealed envelope with USB drive inside, conference program |
-| **Remy Marchand / Detective (Host)** | Clipboard, detective badge (print or novelty), pen, evidence folder |
+| **Fortunado Marchand / Mentalist (Host)** | Pocket watch on chain, deck of cards, small "predictions" notebook, pen, evidence folder |
 
 ---
 
@@ -56,11 +56,11 @@ Give these to each player with their dossier before the party.
 | **String lights** | Outdoor area ambiance |
 | **Conference banner** | Optional: "Welcome to the Tax Optimization Seminar" printed banner |
 | **Bar setup** | Tropical drink garnishes, cocktail napkins, a few bottles to dress the bar area |
-| **Gate/door** | Identify what the Detective will "dramatically shut" at the lockdown |
+| **Gate/door** | Identify what the Mentalist will "dramatically shut" at the lockdown |
 
 ---
 
-## Evidence Props (Detective holds, reveals at scripted moments)
+## Evidence Props (Host holds, reveals at scripted moments)
 
 | Evidence | When Revealed | How to Make It |
 |---|---|---|
@@ -92,5 +92,5 @@ Things you need to design and print:
 - [ ] Character dossiers (one per player)
 - [ ] Round cards (one per player per round = ~80 cards if 20 players)
 - [ ] Gloria's confession speech (sealed envelope)
-- [ ] Detective badge
+- [ ] Pocket watch + deck of cards (Fortunado's stage props)
 - [ ] Hotel ID badges (Irina, Rosa, Nadia name tags)

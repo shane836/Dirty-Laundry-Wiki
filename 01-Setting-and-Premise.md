@@ -4,7 +4,7 @@
 
 **A Murder Mystery Dinner Party Game**
 
-**Players:** 9 Main Suspects + 1 Victim + 1 Ghost + up to 10 Minor Characters + 1 Host (The Detective)
+**Players:** 9 Main Suspects + 1 Victim + 1 Ghost + up to 10 Minor Characters + 1 Host (The Mentalist)
 
 **Logline:** When an offshore tax attorney organizing a conference in the Caymans threatens to blow the whistle on everyone's dirty deals, somebody decides her laundry — literal and figurative — needs to be aired permanently.
 
@@ -55,6 +55,6 @@ Everyone was at the conference. Everyone had opportunity. Everyone had motive.
 - A **round card** at the start of each round (3-4 bullet points telling you what to say, who to engage, what to watch for)
 - Any **character props** listed in their dossier
 
-**The Host** plays The Detective — a private investigator hired by the hotel's insurance company. They hold a clipboard, control pacing, deliver evidence, interrogate characters, and make dramatic announcements.
+**The Host** plays Fortunado Marchand, "The Mentalist" — a stage mind-reader hired as the evening's entertainment. When the body drops, he takes command of the room: reading faces, pressing for tells, controlling pacing, delivering evidence, interrogating characters, and making dramatic announcements.
 
 **The goal:** Figure out who killed Paloma Rathbone. Players vote at the end of Round 4.

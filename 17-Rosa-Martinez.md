@@ -14,12 +14,12 @@ Continuous video call with corporate headquarters from 9 to 11 PM — quarterly 
 
 ## Your Role in the Game
 
-You're a supporting NPC. Your job is to hand the Detective (Host) critical evidence at scripted moments and confirm logistical details. If you're a separate player, you deliver your lines when prompted. If the Host is playing you, switch into Rosa's voice when delivering data.
+You're a supporting NPC. Your job is to hand the Mentalist (Host) critical evidence at scripted moments and confirm logistical details. If you're a separate player, you deliver your lines when prompted. If the Host is playing you, switch into Rosa's voice when delivering data.
 
 ## What You Deliver (scripted moments)
 
 **Round 2 — The Key Card Logs:**
-Hand the Detective the master key data. "A master key was used to access the service area at 10:07 PM. Only four people have master keys — me, Irina, Marco, and maintenance. Maintenance is off-island. There's also an owner's override card. Only one exists."
+Hand the Mentalist the master key data. "A master key was used to access the service area at 10:07 PM. Only four people have master keys — me, Irina, Marco, and maintenance. Maintenance is off-island. There's also an owner's override card. Only one exists."
 
 **Round 2 — Doug's Entrance:**
 "Mr. Kaminski came through the service entrance at midnight. No guest has ever 'accidentally' used that entrance."
@@ -31,7 +31,7 @@ Hand the Detective the master key data. "A master key was used to access the ser
 "The owner's override card was swiped at 10:05 PM on Ms. Rathbone's floor."
 
 **Round 3 — Incident Report:**
-Hand the Detective Marco's incident report — Paloma called Marco a "local punk" in front of guests over a car scratch.
+Hand the Mentalist Marco's incident report — Paloma called Marco a "local punk" in front of guests over a car scratch.
 
 ## Your Props
 

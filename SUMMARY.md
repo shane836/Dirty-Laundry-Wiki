@@ -19,13 +19,13 @@
 * [Diego Reyes](12-Diego-Reyes.md)
 * [Fiona Beaumont](13-Fiona-Beaumont.md)
 * [Destiny Rivers](14-Destiny-Rivers.md)
-* [Olga Davenport](15-Olga-Davenport.md)
+* [Zoya Davenport](15-Zoya-Davenport.md)
 * [Rev. Jimmy Whitfield](16-Rev-Jimmy-Whitfield.md)
-* [Remy Marchand](17-Remy-Marchand.md)
+* [Rosa Martinez](17-Rosa-Martinez.md)
 * [Lorraine Chu](18-Lorraine-Chu.md)
 * [Gerald Finch](19-Gerald-Finch.md)
 * [Nadia Osei](20-Nadia-Osei.md)
-* [Tomas Herrera](21-Tomas-Herrera.md)
+* [Pepe Stevens](21-Pepe-Stevens.md)
 * [Sasha Kimura](22-Sasha-Kimura.md)
 
 ## Round Cards
@@ -37,6 +37,6 @@
 
 ## Host Materials
 
-* [Host & Detective Guide](27-Host-Detective-Guide.md)
+* [Host & Mentalist Guide](27-Host-Mentalist-Guide.md)
 * [Props List](28-Props-List.md)
 * [Costume Guide](29-Costume-Guide.md)

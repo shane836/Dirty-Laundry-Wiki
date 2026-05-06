@@ -65,7 +65,7 @@ Vintage print button-down, untucked. Slim chinos or dark jeans. Canvas sneakers.
 **Female | Early 20s**
 Trendy outfit: crop top and high-waisted pants, or mini dress. Platform sneakers. Phone in hand at ALL times. Ring light or selfie stick. Full glam makeup.
 
-### Olga Davenport — The Retired Lawyer
+### Zoya Davenport — The Retired Lawyer
 **Female | Late 50s**
 Linen blazer or seersucker sport coat. Open-collar dress shirt or silk blouse. Light slacks. Elegant flats or low heels. Glasses on a chain. Old-fashioned cocktail. Pocket square or signet ring.
 
@@ -93,7 +93,7 @@ Dress shirt (loosened tie by Round 2), slacks, dress shoes. Sweating. Handkerchi
 **Female | Late 20s**
 Stylish casual: graphic tee or tank, joggers or shorts, fresh sneakers. Headphones around neck.
 
-### Tomás Herrera — The Maintenance Guy
+### Pepe Stevens — The Maintenance Guy
 **Male | 40s**
 Work shirt or polo, cargo pants, boots. Tool belt optional but great prop.
 
@@ -107,8 +107,8 @@ Crisp hotel uniform: dark shirt, dark pants, hotel ID badge. All business.
 
 ---
 
-## Remy Marchand — The Detective (Host / Shane)
-Black outfit. Clipboard. Detective badge (print or novelty). You're running the show — look sharp but not flashy. You want people looking at the suspects, not at you. Until you want them looking at you.
+## Fortunado Marchand — The Mentalist (Host / Shane)
+Velvet or sharp black blazer over a dark shirt. Optional pocket square or lapel pin for theatrical flair. Pocket watch on a chain (key prop — use it for "look into my eyes" beats). You're the stage act all night, then the man holding the room together — look like a performer who knows how to command attention without being a clown.
 
 ---
 

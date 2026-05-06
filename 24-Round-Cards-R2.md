@@ -1,7 +1,7 @@
 # Round 2 Cards — "Everyone's a Suspect"
 ### In-Game Time: 10:00 PM – 11:00 PM | Flipboard: ROUND 2 — 10:00 PM
 
-**Scene:** Everyone's inside (main structure). The party is over. The Detective runs the alibi round, then secrets start surfacing.
+**Scene:** Everyone's inside (main structure). The party is over. The Mentalist runs the alibi round, then secrets start surfacing.
 
 ---
 
@@ -10,7 +10,7 @@
 ### VAL MONTECITO
 - **Your alibi:** "I was in my suite from about 9:15. Zane was with me. We were... relaxing." Hesitate on "relaxing."
 - If pressed on when you last saw Paloma, be vague. "This morning? Maybe last night?" You're lying about something — but maybe not about murder.
-- If the beach photos come up (Fiona or Detective brings them), get defensive. "Where are those photos? Delete them."
+- If the beach photos come up (Fiona or Mentalist brings them), get defensive. "Where are those photos? Delete them."
 - When the master key / override card comes up, stay quiet. You own the only override card. Don't volunteer that.
 
 ### MARCO REYES
@@ -74,7 +74,7 @@
 - Mention you saw Irina with a garment bag at 7 PM heading to Paloma's floor.
 - Mention Val's suite back door was propped open at 9:30.
 
-### OLGA DAVENPORT
+### ZOYA DAVENPORT
 - Note that Dex and Doug clearly know each other. "That didn't look like a first meeting."
 - Mention Paloma giving Irina a book. "They spoke Russian. It was tender."
 - **Save the Gloria/Marco reveal for Round 3.** Don't drop it yet.
@@ -88,7 +88,7 @@
 - **Critical:** "I saw Doug come in the back way around 9:45. Thought he was in Pittsburgh."
 - Mention the silhouette on Val's back staircase around 10 PM.
 
-### TOMÁS HERRERA
+### PEPE STEVENS
 - Mention the service stairwell was propped open since 6 PM. "Someone did that on purpose."
 - Mention chemical supplies missing from the maintenance closet.
 - Drop that you have an extra master key that's not in Rosa's count.

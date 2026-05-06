@@ -52,7 +52,7 @@
 - Stay in the background. Manage staff. Be efficient and quiet. Nod when spoken to.
 - Speak in halting English if addressed directly. Keep your answers short.
 - Avoid eye contact with everyone, especially Paloma's empty chair.
-- **You discover the body.** At the Detective's cue, run out from the service area screaming: "Ms. Rathbone! She is not breathing! Something is wrong with her shirt! Please come!"
+- **You discover the body.** At the Mentalist's cue, run out from the service area screaming: "Ms. Rathbone! She is not breathing! Something is wrong with her shirt! Please come!"
 
 ### SUNNY PATEL
 - Be present but forgettable. Talk corporate buzzwords — "synergy," "optimization," "stakeholder alignment."
@@ -72,7 +72,7 @@
 - Film everything. Narrate to your phone. "This vibe is everything." Be loud and visible.
 - Point your camera at people and note their reactions.
 
-### OLGA DAVENPORT (Retired Lawyer)
+### ZOYA DAVENPORT (Retired Lawyer)
 - Sit at the bar with a cocktail. Watch everything. Make dry comments to whoever's nearby.
 - If asked about Paloma: "When she's about to do something stupid, she buys expensive vodka for everyone."
 
@@ -83,7 +83,7 @@
 ### DIEGO REYES (Ghost)
 - Drift through the party. You're present but not quite part of it. If someone asks who you are, just say your name. Nothing else.
 
-### FIONA / DESTINY / OLGA / JIMMY — when the body is found, react and gather with everyone else. You're witnesses, not suspects.
+### FIONA / DESTINY / ZOYA / JIMMY — when the body is found, react and gather with everyone else. You're witnesses, not suspects.
 
 ### LORRAINE CHU / GERALD FINCH
 - You're in the conference room area. You don't attend the party — you're working with Gloria on tax strategy. You arrive in the lobby AFTER the body is found.
@@ -91,7 +91,7 @@
 ### NADIA OSEI (DJ)
 - You're at the DJ booth. Keep the music going. Watch who comes and goes.
 
-### TOMÁS HERRERA (Maintenance)
+### PEPE STEVENS (Maintenance)
 - You're not at the party — you're fixing a generator. You arrive when you hear the commotion.
 
 ### SASHA KIMURA (Paloma's Assistant)

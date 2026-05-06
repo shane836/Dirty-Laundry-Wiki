@@ -1,4 +1,25 @@
-# Diego Reyes — The Ghost
+# YOUR GAME PACKET — Diego Reyes (Ghost)
+## Dirty Laundry: Murder in the Caymans
+
+> **READ BEFORE THE PARTY:** Sections 1, 2, and 3.
+> **DO NOT READ AHEAD:** Sections 4–7 are your round cards. Wait for the host to call each round before reading.
+
+---
+
+## 1. Your Costume
+
+**Male | Early 20s**
+Wear whatever you'd wear to a party. You're a ghost — the contrast between casual clothes and your eerie presence is the whole effect. Optional: all white, or notably out of place.
+
+---
+
+## 2. Your Props
+
+None
+
+---
+
+## 3. Your Character
 
 **Male | Age 22 (deceased) | MINOR CHARACTER (Ghost)**
 
@@ -35,3 +56,53 @@ You are Gloria's firstborn son and Marco's older brother. Tonight you're a ghost
 ## Your Props
 
 None. Ghosts travel light.
+
+---
+
+## ⛔ STOP — Wait for the host to call "ROUND 1 — 8:00 PM"
+
+---
+
+## 4. Round 1 — "The After-Party"
+*In-game time: 8:00 PM – 10:00 PM*
+
+### DIEGO REYES (Ghost)
+- Drift through the party. You're present but not quite part of it. If someone asks who you are, just say your name. Nothing else.
+
+---
+
+## ⛔ STOP — Wait for the host to call "ROUND 2 — 10:00 PM"
+
+---
+
+## 5. Round 2 — "Everyone's a Suspect"
+*In-game time: 10:00 PM – 11:00 PM*
+
+### DIEGO REYES (Ghost)
+- Watch the alibi round from the edges. If anyone asks you anything: "I used to know these people. A long time ago." Be cryptic.
+
+---
+
+## ⛔ STOP — Wait for the host to call "ROUND 3 — 11:00 PM"
+
+---
+
+## 6. Round 3 — "The Investigation"
+*In-game time: 11:00 PM – Midnight*
+
+### DIEGO REYES (Ghost)
+- **Your moment.** When your death comes up, step forward. Tell the room what happened.
+- "I was 22. Someone gave bad information to the wrong people. I didn't even know why I was being targeted. I found out later it was Paloma — she made a trade and I was the cost."
+- Look at Gloria. "My mother never recovered."
+
+---
+
+## ⛔ STOP — Wait for the host to call "ROUND 4 — Midnight"
+
+---
+
+## 7. Round 4 — "The Reveal"
+*In-game time: Midnight*
+
+### DIEGO REYES (Ghost)
+- Watch your mother confess. You're the reason. You don't need to say anything. Your presence is the punctuation.
