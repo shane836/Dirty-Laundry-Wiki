@@ -7,7 +7,7 @@
 
 ### How It Works
 
-The game plays out over **4** of improv role play. Each round, players receive a **game card** with 3–4 bullet points telling them what to say, what to look out for, and what information to drop. Between rounds, the host makes announcements that push the story forward — new evidence surfaces, alibis fall apart, twists land.
+The game plays out over **4** rounds of improv role play. Each round, players receive a **game card** with 3–4 bullet points telling them what to say, what to look out for, and what information to drop. Between rounds, the host makes announcements that push the story forward — new evidence surfaces, alibis fall apart, twists land.
 
 Players also get a **dossier** at the start of the night — a short character sheet covering who they are, their backstory, their motive, their alibi, and their connections to other characters. The dossier is their bible. The game cards are their script (loosely).
 
