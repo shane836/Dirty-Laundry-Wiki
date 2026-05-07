@@ -4,6 +4,8 @@ A murder mystery dinner party game set on a private Cayman Islands estate.
 
 This wiki contains the full storyline, every character dossier, all four rounds of round cards, and the host/mentalist playbook.
 
+If you want to consume this material using AI, point your agent at the repo here: https://github.com/shane836/Dirty-Laundry-Wiki
+
 ## Where to start
 
 - **Hosts:** read [Master Storyline](00-Master-Storyline.md), then [Host & Mentalist Guide](27-Host-Mentalist-Guide.md), then skim every character.
