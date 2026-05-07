@@ -2,7 +2,7 @@
 
 * [Home](README.md)
 * [Master Storyline](00-Master-Storyline.md)
-* [Setting and Premise](01-Setting%20and%20Premise.md)
+* [Setting and Premise](01-Setting and Premise.md)
 
 ## Characters
 
@@ -29,16 +29,16 @@
 
 ## Round Cards
 
-* [Round 1](round%20cards/23-Round-Cards-R1.md)
-* [Round 2](round%20cards/24-Round-Cards-R2.md)
-* [Round 3](round%20cards/25-Round-Cards-R3.md)
-* [Round 4](round%20cards/26-Round-Cards-R4.md)
+* [Round 1](round cards/23-Round-Cards-R1.md)
+* [Round 2](round cards/24-Round-Cards-R2.md)
+* [Round 3](round cards/25-Round-Cards-R3.md)
+* [Round 4](round cards/26-Round-Cards-R4.md)
 
 ## Host Materials
 
-* [Host & Mentalist Guide](host%20guide/27-Host-Mentalist-Guide.md)
-* [Props List](Reference%20Material/28-Props-List.md)
-* [Costume Guide](Reference%20Material/29-Costume-Guide.md)
+* [Host & Mentalist Guide](host guide/27-Host-Mentalist-Guide.md)
+* [Props List](Reference Material/28-Props-List.md)
+* [Costume Guide](Reference Material/29-Costume-Guide.md)
 
 ## Scripts
 
