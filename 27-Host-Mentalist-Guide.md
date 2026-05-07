@@ -118,7 +118,40 @@ This is the main event. You're driving the investigation, dropping evidence, and
 
 ---
 
-## NPC Lines — Rosa Martinez
+## Canonical Answers (Mentalist eyes only)
+
+These are questions players *will* ask. The round cards point at the evidence but don't always state the canonical answer. Use these so you never freeze.
+
+### What's on Sasha's USB drive?
+
+Paloma's compiled files on everyone in this room — the evidence she had been gathering for Sunny's federal case. Names, dates, wire transfers, photos, recorded calls. Enough to indict every suspect at the table and several minor characters.
+
+- This is the "additional evidence" Sasha's Round 3 card refers to.
+- Use it to corroborate any specific accusation: "The drive has it. Page 4. Wire transfers from a shell company to your account."
+- Don't read out a literal manifest — keep it ominous and selective. The drive is a weapon you wave, not a document you publish.
+- If a player asks how Paloma had this much: she'd been quietly building the file for months while flipping for Sunny.
+
+### What is Pam's vial?
+
+A hotel laundry scent bottle. During her blackout, Pam stumbled into a maintenance closet, knocked over a shelf, got bleach splashed on her hand (that's the chemical burn), and grabbed the nearest small bottle — a fragrance/scent additive used on linens — without knowing what it was. She woke up with it still in her hand.
+
+- It is **not** the dermal toxin. It is **not** the paralytic. It is a red herring.
+- Pam's player genuinely doesn't know this — let her flounder, then resolve it cleanly when she becomes a dead end.
+- The bleach explains the chemical burn. The scent bottle explains the vial. Pepe or Rosa can confirm the maintenance closet was disturbed if you need a corroborator.
+- Land it as: "It's hotel laundry scent. She wandered into a closet she shouldn't have been in, knocked over a shelf, and grabbed it. The burn is bleach from the same shelf. She's a drunk, not a killer."
+
+### Where did Gloria actually kill Paloma — corridor or laundry room?
+
+**The service corridor.** Gloria injected Paloma in the service corridor near the laundry door at ~10:25 and left her there. Irina, working in the laundry, heard the disturbance and stepped out a few minutes later. She found Paloma already dead, recognized immediately what Gloria had done — she'd handled the shirt, she knew the plan, she knew Gloria was in the building — and on instinct moved the body into a laundry basket to control the scene. Then she "discovered" the body at 10:45 and screamed.
+
+- This resolves the geometry: Irina was in the laundry all night and didn't see Gloria — because Gloria never entered the laundry. She struck in the corridor.
+- This is what Irina's alibi card hints at with "or did you already know it was there?" — she didn't kill Paloma, but she moved her, and she knew.
+- If a player asks Irina directly in Round 3, she can confirm after she breaks: "I found her in the corridor. I knew. I moved her. It was instinct."
+- This is canon — use it to settle any "but how did Gloria get past Irina?" challenge.
+
+---
+
+
 
 If you're playing Rosa yourself (no separate player), switch into her voice for these moments:
 

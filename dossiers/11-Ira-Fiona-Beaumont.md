@@ -21,11 +21,11 @@ Camera (real or prop), wrist cast or brace, press pass
 
 **Who You Are:** Female | Around 30 | MINOR CHARACTER (Not a suspect)
 
-Hipster photographer hired to document the conference. You consider yourself a "visual storyteller." You've got a broken wrist from a surfing accident yesterday — dominant hand in a cast. It hasn't slowed you down, but it means you couldn't have physically committed the murder. You hold your camera in your off hand and show photos on your phone. You're observant, nosy, and you've captured things people wish you hadn't.
+Hipster photographer hired to document the conference. You consider yourself a "visual storyteller." You've got a broken wrist from a surfing accident yesterday — dominant hand in a cast. It hasn't slowed you down. You hold your camera in your off hand and show photos on your phone. You're observant, nosy, and you've captured things people wish you hadn't.
 
 ### Why You're Not a Suspect
 
-Broken wrist, verified by medical records. Physically incapable of administering poison or moving a body. Your cast was applied 36 hours before the murder.
+You were externally filming and shooting the whole night — courtyard, pool deck, lobby — and your camera and phone footage is timestamped continuously. Your location is on the record from before 7 PM through the body's discovery. You were never inside the service corridor or laundry room.
 
 ### What You Know (reveal through conversation)
 

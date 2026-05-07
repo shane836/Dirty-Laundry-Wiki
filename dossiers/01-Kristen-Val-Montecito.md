@@ -34,6 +34,8 @@ You own Heathens Hollow, this boutique hotel. Stunning, charismatic, always hold
 
 You were in your private suite with Zane from about 9:15 PM onward. You say you were "relaxing." In reality, you and Zane were in crisis mode — his crypto wallet got destroyed and a fortune tied to your operation vanished with it. You didn't kill Paloma, but you can't explain what you were actually doing without exposing everything.
 
+At one point you slipped out and used your override card on Paloma's floor — a routine maintenance check (a leaking unit, a noise complaint, something boring; you do this regularly as the owner). You didn't see Paloma. You went straight back to the suite. You haven't mentioned it because, with her dead, it now looks terrible.
+
 ### Your Connections
 
 - **Paloma** — Had an affair with her. She dumped you when she decided to flip. Then she started blackmailing you.
