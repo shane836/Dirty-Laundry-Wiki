@@ -1,3 +1,21 @@
+---
+type: dossier
+character: "Zane Nakamura"
+player_name: "Pasha"
+aliases: [Zane, "Zane Nakamura"]
+role: SUSPECT
+is_killer: false
+gender: Male
+age_range: "Late 20s"
+alibi: "Val's private suite from 9:15 PM"
+alibi_location: "Val's private suite"
+alibi_break: "None claimed (alibi sounds rehearsed)"
+connections: ["[[Val]]", "[[Paloma]]", "[[Gloria]]", "[[Marco]]"]
+affiliations: [Hotel financial operations, Crypto management]
+secrets_count: 3
+tags: [character, suspect]
+---
+
 # Zane Nakamura Game Packet
 
 > **READ BEFORE THE PARTY**

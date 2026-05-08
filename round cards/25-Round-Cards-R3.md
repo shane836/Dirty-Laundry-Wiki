@@ -1,103 +1,167 @@
+---
+type: round-card
+round: 3
+title: "The Investigation"
+in_game_time: "11:00 PM – Midnight"
+scene: "Hard evidence; suspects eliminated; Gloria's truth emerges"
+tags: [round-card, round-3]
+---
+
 # Round 3 Cards — "The Investigation"
 ### In-Game Time: 11:00 PM – Midnight | Flipboard: ROUND 3 — 11:00 PM
 
-**Scene:** The longest round. Hard evidence. Suspects eliminated one by one. Val looks guilty, then Zane looks guilty, then the truth about Gloria emerges. Pace the beats — let players argue between reveals.
+**Scene:** The longest round. Hard evidence. The live board entering R3 is Val, Marco, Irina, Gloria. Val looks guilty first, then Marco, then the truth about Gloria emerges. Five matching browns line up on the table. Pace the beats — let players argue between reveals.
+
+**How beats work this round:** Same choreography as R2. **Cue → Holder → Prop → Line → Reactor.** Find your name in each beat below. The Mentalist drives the order. Hold for 3–4 minutes between major beats so players can theorize.
 
 ---
 
-## MAJOR CHARACTERS
+## NINE-BEAT INVESTIGATION (in order)
+
+---
+
+### BEAT 1 — The override card (Val takes the spotlight)
+- **Cue (Mentalist):** Reads override-card log aloud. "10:05 PM. Floor 3. Ms. Rathbone's floor. Only one card has this clearance — Ms. Montecito's."
+- **VAL:** Deny it initially. "I didn't go to her floor. Someone else must have used it."
+- **MENTALIST:** "There is one card. You have it."
+- **ZANE:** Break. "She left for ice. Twenty minutes."
+- **NADIA:** "I saw the silhouette. Ten o'clock. Couldn't tell who."
+- **MENTALIST:** "Val Montecito is the prime suspect."
+- **Hold here for 3–4 minutes of player theorizing.**
+
+### BEAT 2 — The valet master key (Marco takes the spotlight)
+- **Cue (Mentalist):** Re-reads master-key log. "10:07 PM. Service area. Mr. Reyes's key."
+- **PEPE:** "I saw him move the Range Rover. That's the swipe."
+- **MENTALIST:** "The car move accounts for the keycard. It does not account for the fifteen-minute valet gap."
+- **MARCO:** Drop your keys. (Third drop tonight.)
+- **Hold for theorizing — Val OR Marco look guilty.**
+
+### BEAT 3 — The two photos of Diego (the Gloria-Marco connection lands physically)
+- **Cue (Mentalist):** "Ms. Davenport, you've been quiet. Speak."
+- **ZOYA:** "I've known Gloria Reyes for thirty years. I never forget a face. Marco — Marco is her son."
+- **MENTALIST:** "Prove it."
+- **FIONA:** Hold up your phone. The host pre-loaded a close-up of Marco's open wallet showing the Diego photo. "I shot this earlier tonight. He was looking at it."
+- **MENTALIST:** Step to Gloria. Open her tote bag. Lift out the loose printed photo. Hold it up next to Fiona's phone. "Same photo. Same boy. Same picture."
+- **MARCO:** Silence.
+- **GLORIA:** Silence.
+- **VAL:** "Oh my god."
+- **DIEGO (ghost):** Step forward.
+
+### BEAT 4 — Diego speaks (the motive lands)
+- **DIEGO (ghost):** "I was 22. Paloma traded my name to a rival cartel for information. I didn't know why I died until I was already dying."
+- **ZOYA:** "Gloria buried her firstborn two years ago. Paloma made the trade and called it cost of doing business."
+- **JIMMY:** "She came to me. She said she'd do 'anything' to protect her children. I think we know what 'anything' meant."
+- **GLORIA:** Composure cracks for one beat. Then rebuilds.
+- **MARCO:** Can't look at her.
+
+### BEAT 5 — The shirt traced (Irina takes the spotlight, accomplice not killer)
+- **Cue (Mentalist):** "Mrs. Volkov. The collar."
+- **MENTALIST:** Hold up the collar — the dark brown stain visible.
+- **PEPE:** Hold up the **coffee tin** from Irina's laundry cart. Open it, pour a little out — brown powder, not coffee grounds, wrong texture. "This was on Mrs. Volkov's cart. Labeled coffee. It isn't coffee. Same brown as the collar. And it smells wrong."
+- **MENTALIST:** "The same color. The same compound. Disguised as coffee. The garment bag delivery at 7 PM."
+- **DESTINY:** Play the livestream clip on your phone — Irina speed-walking with the bag.
+- **IRINA:** Reach into your apron. Pull out the burnt-edge note. Drop the broken English entirely. Perfect grammar: "Gloria gave me the compound. Gloria ordered the shirt. I delivered it. I tried to burn the note. I didn't try hard enough." Hand the note to the Mentalist.
+- **MENTALIST (reads aloud):** "*Shirt ready by 7. Use everything. Burn this.* Signed, *G.*"
+- **DEX:** Stunned silence.
+- **VAL:** "What note?"
+
+### BEAT 6 — The autopsy and the corridor (two methods become physical)
+- **Cue (Mentalist):** "But the shirt was slow. So what killed her fast?"
+- **PEPE:** Hold up the bloodstained cotton ball and the needle cap. "Found these three feet from the basket and ten feet down the corridor. Whoever did this stood right there."
+- **MENTALIST (reads autopsy):** "Puncture wound, left side of the neck. Paralytic. Same brown color signature as the shirt and the powder."
+- **PLAYERS:** Walk to the body. The neck wound is visible. Two parallel drips run from the puncture down to the collar — one red, one brown. The chain is locking.
+
+### BEAT 7 — Gloria's tote (the smoking guns)
+- **Cue (Mentalist):** "Mrs. Reyes. Your bag."
+- **GLORIA:** "You can't be serious."
+- **MENTALIST:** "I am Fortunado the Magnificent and I am perfectly serious. Empty it."
+- **SUNNY:** Step in, badge in hand. Demand it.
+- **GLORIA:** Place items on the table one at a time:
+  1. The printed Diego photo. (Already referenced in Beat 3.)
+  2. The handkerchief — red Kool-Aid drop + brown smear visible.
+  3. The brown Sharpie wrapped in masking tape labeled "INSULIN."
+- **MENTALIST:** *(picks up the Sharpie, peels back the tape)* "Mrs. Reyes, you are not diabetic. And this is a Sharpie."
+- **SUNNY:** Hold the Sharpie next to the collar next to the handkerchief next to Gloria's stained cuff next to the powder in Irina's coffee tin. **Five matching browns in a line.**
+- **MENTALIST:** Walk to Dex's thermos at the bar. Hold it up. Open it. Steam, real coffee, different shade. "*That* is coffee. *This* is the same brown as the stain on Ms. Rathbone's collar."
+- **GLORIA:** Says nothing.
+
+### BEAT 8 — Gerald cracks
+- **Cue (Mentalist):** "Mr. Finch. Your handkerchief looks soaked."
+- **GERALD:** Visibly sweating through your shirt. Mop your face. "She left. Around 10:25. She said restroom. I didn't think… I didn't…" *(trail off, mop again)* "And she checked her watch four times in ten minutes before she left. Like she was waiting for a window."
+- **GLORIA:** Look at Gerald. He flinches.
+
+### BEAT 9 — Marco's eyewitness AND Val cleared
+- **PEPE:** Hand the Mentalist the maintenance work order. "I pulled this from the work-order log. Ms. Montecito signed it at 10:05. Leaking unit on Floor 3. The override card was a maintenance call. She didn't see Ms. Rathbone."
+- **VAL:** Exhale for the first time all round. **You are cleared.**
+- **MENTALIST:** "Mr. Reyes. What did you see?"
+- **MARCO:** Drop your keys for the third time. Pick them up. Look at Gloria. "I saw her near the service stairwell. 10:25. She had her hand in her tote. I knew. I've known all night."
+
+**End of Round 3.** Hand out Round 4 cards. Give Gloria her confession envelope if you haven't already.
+
+---
+
+## ALL-NIGHT ROLES (your participation in the beats above)
 
 ### VAL MONTECITO
-- The Mentalist reveals your override card was swiped at 10:05 PM on Paloma's floor. You're now the prime suspect.
-- **Deny it initially.** "I didn't go to her floor. Someone else must have used it." But you're the only one with that card.
-- When pressed hard enough: admit you left the suite briefly. "I went to check something in the hotel. It had nothing to do with Paloma." Be vague. You're covering for something — but it's not murder.
-- When Gloria's guilt starts emerging late in the round, you're visibly relieved. Then angry. Then scared — because Sunny's reveal means YOUR operation is exposed too.
+- Beat 1: holder role. Beat 9: cleared.
+- Late in the round when Gloria's guilt emerges, you're visibly relieved. Then angry. Then scared — Sunny's reveal means your operation is exposed too.
 
 ### MARCO REYES
-- You've been protecting your mother all night. It's getting harder.
-- If the Diego story comes up (Zoya reveals it), your composure breaks. You can't hide the grief.
-- When the Mentalist presses you about what you saw during your break: resist as long as you can.
-- **Late in Round 3, when the pressure is maximum:** "I saw her. Near the service stairwell. Around 10:25." Beat. "She's my mother. I wasn't going to say anything."
-
-### ZANE NAKAMURA
-- Your crypto crisis comes fully into the open. The wallet destruction was deliberate sabotage by Paloma.
-- A fortune tied to Val's operation was on that wallet — and some of Gloria's money too.
-- Under pressure, you crack: "She's going to kill me. Gloria is going to kill me when she finds out."
-- Players should briefly think YOU could have gone to Paloma's room to confront her about the wallet. Let them wonder.
-
-### DEX CALLOWAY
-- When Irina breaks and reveals the poisoned shirt, you look devastated. Not because of the crime — because she was involved and you didn't know.
-- If asked about your break again: you were bringing Irina food. "I was checking on her. I bring her food during long shifts. That's all." This reveals your feelings for Irina.
-- If Zoya mentions your past: "I was someone else before this. That person is gone. I tend bar now."
+- Beat 2: holder role. Beat 3: silent reactor. Beat 9: holder role (the eyewitness).
+- The keys drop one final time when you look at Gloria.
 
 ### GLORIA REYES
-- **Hold your composure as long as possible.** This round is about the walls closing in.
-- When Zoya reveals you're Marco's mother: don't deny it. Say nothing. Let the silence speak.
-- When Irina reveals the poisoned shirt and names you: stay calm. "Irina is confused. She's under tremendous stress."
-- When Gerald cracks and admits you left the conference room: your composure finally slips. Just a crack.
-- When Marco says he saw you at the stairwell: look at him. Just look at him. The round ends here. Save the confession for Round 4.
-
-### PAM WORTHINGTON
-- You're mostly a spectator this round. The investigation has moved past you — your blackout makes you look guilty but the evidence is pointing elsewhere.
-- If asked, you still can't explain the vial or the chemical burn. You're scared.
-- When Gloria's guilt emerges, you're in shock. She's your best friend.
-
-### DOUG KAMINSKI
-- Nadia confirmed you arrived early through the service entrance. Your Pittsburgh alibi is blown.
-- Admit you were here earlier: "Fine. I got in around 9:45. I came through the service entrance because I didn't want to make a scene. I went to my room. That's it."
-- When the money laundering connection to Gloria comes up, sweat visibly. "I run a porta potty business. That's all."
+- Hold composure through Beats 1–6.
+- Beat 7: empty your tote one item at a time. Don't speak.
+- Beat 8: look at Gerald when he cracks. He flinches.
+- Beat 9: when Marco speaks, look at him. The round ends here. Save the confession for Round 4.
 
 ### IRINA VOLKOV
-- **This is your moment.** When the Mentalist presses you about the garment bag and the poisoned shirt:
-- Drop the halting English. Speak clearly, precisely. Perfect grammar. "Gloria gave me the chemical compound. Gloria ordered the shirt poisoned. I delivered it through the laundry. I did exactly what she told me to do."
-- This transformation — from broken English to perfect clarity — should stun the room.
+- Beat 5: your big moment. Drop the broken English entirely. Pull the burnt note from your apron. Name Gloria.
 - If asked why: "She pays for my mother's medical care. My daughter's school. Without her, they have nothing. I had no choice."
 
+### ZANE NAKAMURA
+- Beat 1: break and admit Val left. "She left for ice. Twenty minutes."
+- Otherwise mostly cleared by R2. Stay in the room. React.
+
+### DEX CALLOWAY
+- Beat 5: stunned silence reactor. Don't interrupt Irina.
+- If Zoya mentions your past: "I was someone else before this. That person is gone. I tend bar now."
+
+### PAM WORTHINGTON
+- Cleared in R2. Stay in the room as comic relief. React with shock when Gloria's guilt emerges.
+
+### DOUG KAMINSKI
+- Cleared as the killer in R2 (laundering exposed). Stay quiet during R3 unless directly asked.
+
 ### SUNNY PATEL
-- **Reveal yourself.** Drop the corporate persona entirely. Stand up.
-- "I'm not a consultant. I'm a federal agent — IRS and Interpol joint task force. Paloma Rathbone was my informant. She was going to testify against every person in this room."
-- This reframes everything. Paloma wasn't just killed over personal grudges — her testimony would have brought down entire operations.
-- If asked why you didn't protect her: look guilty. "I should have. I know that now."
-
----
-
-## MINOR CHARACTERS
+- Already revealed in R2. Beat 7: step in with badge to demand Gloria's tote. Hold the five browns up in a line.
 
 ### FIONA BEAUMONT
-- React to revelations. Ask follow-up questions. "Wait — if the shirt was poisoned at 7 PM but the injection was at 10:30... who did which one?"
+- Beat 3: holder role (phone with Marco's wallet shot).
+- Otherwise: ask follow-up questions. "Wait — if the shirt was poisoned at 7 PM but the injection was at 10:30… who did which one?"
 
 ### DESTINY RIVERS
-- Confirm your footage of Irina with the garment bag at 7 PM. "I have it on my stream. She was almost running."
-- Confirm Val's back door was propped open. This feeds the Val-as-suspect misdirection.
+- Beat 5: holder role (livestream clip).
 
 ### ZOYA DAVENPORT
-- **YOUR BIG MOMENT:** Reveal Gloria and Marco's relationship. "I've known Gloria for thirty years. Marco is her son."
-- Follow up with Diego: "Gloria's firstborn. Diego. Killed two years ago. Paloma had something to do with it."
-- Let that land. Let the room react.
+- Beat 3: holder role. The Gloria-Marco reveal lands here.
 
 ### REV. JIMMY WHITFIELD
-- Connect Gloria's confession ("anything to protect my children") to the Diego revelation. "She said 'anything.' Now we know what 'anything' means."
+- Beat 4: deliver the "anything" line connecting Gloria's confession to Diego.
 
 ### NADIA OSEI
-- Confirm Doug's early arrival again if anyone doubts it. "I saw him. 9:45. Service entrance."
-- The silhouette on the back staircase: "I couldn't tell who. But someone was definitely there around 10."
+- Beat 1: confirm the silhouette on the back staircase.
 
 ### PEPE STEVENS
-- Confirm the propped-open service door. "Someone prepared an escape route hours before the murder."
-- Confirm missing chemicals from the maintenance closet. "That's where you'd get precursors for a dermal toxin if you knew what you were doing."
-
-### SASHA KIMURA
-- **Reveal the envelope.** "Paloma gave me this two days ago. She said if anything happened to her, give it to the authorities." Hand it to the Mentalist.
-- The USB drive contains files on everyone. The Mentalist can reference this as additional evidence.
+- Beat 2: confirm Marco's car move.
+- Beat 5: holder role (coffee tin).
+- Beat 6: holder role (cotton ball + needle cap labeled "INSULIN").
+- Beat 9: holder role (maintenance work order — clears Val).
 
 ### GERALD FINCH
-- **You crack.** Under pressure from the Mentalist or other players: "Gloria stepped out. Maybe ten minutes. Around 10:25. She said restroom. I didn't think..." Trail off. You're scared.
-
-### LORRAINE CHU
-- Confirm Gerald's admission reluctantly. "It's true. She left. We didn't think it mattered."
-- Add: "She checked her watch three times in ten minutes before she left."
+- Beat 8: you crack. Visibly sweating through your shirt. Deliver both lines yourself — the "she left at 10:25" admission AND the watch-count observation ("She checked her watch four times in ten minutes before she left.").
 
 ### DIEGO REYES (Ghost)
-- **Your moment.** When your death comes up, step forward. Tell the room what happened.
-- "I was 22. Someone gave bad information to the wrong people. I didn't even know why I was being targeted. I found out later it was Paloma — she made a trade and I was the cost."
-- Look at Gloria. "My mother never recovered."
+- Beat 4: your moment. Step forward.
+- "I was 22. Someone gave bad information to the wrong people. I didn't even know why I was being targeted. I found out later it was Paloma — she made a trade and I was the cost." Look at Gloria. "My mother never recovered."

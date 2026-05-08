@@ -1,3 +1,12 @@
+---
+type: round-card
+round: 4
+title: "The Reveal"
+in_game_time: "Midnight"
+scene: "The vote, confrontation, confession (~15 min)"
+tags: [round-card, round-4]
+---
+
 # Round 4 Cards — "The Reveal"
 ### In-Game Time: Midnight | Flipboard: ROUND 4 — MIDNIGHT
 
@@ -57,6 +66,7 @@ A mother protects her children. Even the dead ones."
 
 ### DEX CALLOWAY
 - You look at Irina. She followed orders. Gloria's orders. Just like you used to. The cycle continues.
+- The thermos under the bar is the only thing left to say. Don't speak. Just look at it.
 
 ### PAM WORTHINGTON
 - Your best friend is a killer. You defended her. You let her comfort you. You're gutted.
@@ -75,16 +85,13 @@ A mother protects her children. Even the dead ones."
 ## MINOR CHARACTERS
 
 ### DIEGO REYES (Ghost)
-- Watch your mother confess. You're the reason. You don't need to say anything. Your presence is the punctuation.
+- Stand behind Gloria during her confession. Don't move. Don't speak. Your presence is the punctuation.
 
 ### ZOYA DAVENPORT
 - You saw this coming. Thirty years of knowing Gloria. Nod slowly. "I hoped I was wrong."
 
-### GERALD FINCH / LORRAINE CHU
-- You covered for her. That's going to haunt you. Look at each other.
-
-### SASHA KIMURA
-- Hold the envelope. The USB drive. Paloma knew this was coming. She tried to leave evidence. It wasn't enough to save her, but it's enough to prove everything.
+### GERALD FINCH
+- You covered for her. That's going to haunt you. Stare at the table.
 
 ### ALL OTHERS
 - React, discuss, process. The game is over. The conversation after is the real ending.

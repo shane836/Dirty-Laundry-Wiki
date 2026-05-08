@@ -21,11 +21,9 @@
 * [Zoya Davenport](dossiers/13-Olga-Zoya-Davenport.md)
 * [Rev. Jimmy Whitfield](dossiers/14-Dylan-Rev-Jimmy-Whitfield.md)
 * [Rosa Martinez](dossiers/15-Rosa-Martinez.md)
-* [Lorraine Chu](dossiers/16-Lorraine-Chu.md)
 * [Gerald Finch](dossiers/17-Gerald-Finch.md)
 * [Nadia Osei](dossiers/18-Nadia-Osei.md)
 * [Pepe Stevens](dossiers/19-Boris-Pepe-Stevens.md)
-* [Sasha Kimura](dossiers/20-Sasha-Kimura.md)
 
 ## Round Cards
 

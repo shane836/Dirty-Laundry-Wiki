@@ -1,3 +1,21 @@
+---
+type: dossier
+character: "Sunny Patel"
+player_name: "Yegor"
+aliases: [Sunny, "Sunny Patel"]
+role: SUSPECT
+is_killer: false
+gender: Any
+age_range: "Early 40s"
+alibi: "Networking at party (fully witnessed)"
+alibi_location: "Main party area"
+alibi_break: "None (alibi rehearsed; trained agent)"
+connections: ["[[Paloma]]", "[[Val]]", "[[Gloria]]", "[[Zane]]"]
+affiliations: [Undercover IRS/Interpol agent]
+secrets_count: 3
+tags: [character, suspect, law-enforcement]
+---
+
 # Sunny Patel Game Packet
 
 > **READ BEFORE THE PARTY**

@@ -1,3 +1,21 @@
+---
+type: dossier
+character: "Marco Reyes"
+player_name: "Arron"
+aliases: [Marco, "Marco Reyes"]
+role: SUSPECT
+is_killer: false
+gender: Male
+age_range: "Early 20s"
+alibi: "Valet stand all night, 15-min break around 10 PM"
+alibi_location: "Valet stand / service garage"
+alibi_break: "10 PM 15-min break; master key swipe at 10:07 PM"
+connections: ["[[Gloria]]", "[[Paloma]]", "[[Irina]]", "[[Dex]]", "[[Val]]"]
+affiliations: [Hotel staff, Gloria's cartel (unwitting)]
+secrets_count: 3
+tags: [character, suspect, hotel-staff]
+---
+
 # Marco Reyes Game Packet
 
 > **READ BEFORE THE PARTY**

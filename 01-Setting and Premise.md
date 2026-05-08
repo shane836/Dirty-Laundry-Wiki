@@ -1,3 +1,9 @@
+---
+type: overview
+title: "Setting & Premise"
+tags: [overview, premise]
+---
+
 # Setting & Premise
 
 ## What Is This Game?

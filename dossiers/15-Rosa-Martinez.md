@@ -1,3 +1,21 @@
+---
+type: dossier
+character: "Rosa Martinez"
+player_name: ""
+aliases: [Rosa, "Rosa Martinez"]
+role: NPC
+is_killer: false
+gender: Female
+age_range: "Late 30s"
+alibi: "Corporate video call 9-11 PM"
+alibi_location: "Manager's office"
+alibi_break: "None"
+connections: ["[[Irina]]", "[[Marco]]", "[[Pepe]]"]
+affiliations: [Hotel staff (night shift manager)]
+secrets_count: 0
+tags: [character, npc, hotel-staff]
+---
+
 # Rosa Martinez Game Packet
 
 > **READ BEFORE THE PARTY**

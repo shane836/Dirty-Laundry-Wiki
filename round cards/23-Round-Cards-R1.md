@@ -1,3 +1,12 @@
+---
+type: round-card
+round: 1
+title: "The After-Party"
+in_game_time: "8:00 PM – 10:00 PM"
+scene: "Courtyard after-party; body discovery by end of round"
+tags: [round-card, round-1]
+---
+
 # Round 1 Cards — "The After-Party"
 ### In-Game Time: 8:00 PM – 10:00 PM | Flipboard: ROUND 1 — 8:00 PM
 
@@ -16,11 +25,14 @@
 ### MARCO REYES
 - You're working valet but popping into the party. Be charming and eager. Ask about people's cars.
 - If Paloma's name comes up, say almost to yourself: "My brother used to say women like Paloma always get what's coming." Then change the subject immediately.
+- **Carry your wallet open in your hand twice during the round. Look at the photo inside (it's Diego). Don't show it to anyone — but let Fiona catch you looking. She's photographing.**
+- **When Paloma's name comes up the first time, drop your car keys loudly. (First of three drops tonight.)**
 - Stay near the exit. You're ready to leave at a moment's notice. That's how you always are.
 - When the body is found, look frozen. Then look at Gloria. She gives you a look that says: "Say nothing."
 
 ### ZANE NAKAMURA
 - Arrive talking crypto. Be on your phone. Name-drop. Mention your hardware wallet at least once.
+- **You have THREE dead hardware wallets in your blazer pocket. Pull each one out throughout the round and look at it sadly. Voice rising. "Look at this. LOOK at this. It's a brick."** Show people the crypto-crash chart on your phone.
 - You're close to Val — exchange knowing looks with her. If someone asks, you're "business partners."
 - You're slightly on edge. Check your phone a lot. You're distracted by something you won't talk about.
 - When the body is found, you look panicked. More panicked than the situation warrants.
@@ -29,24 +41,29 @@
 - You're behind the bar making drinks. Be observant, witty, and professional. Remember people's orders.
 - Mention that Paloma ordered vodka sent to her room at 7 PM. "Standard Rathbone move."
 - If anyone asks personal questions, deflect with humor. You don't talk about yourself.
+- **You have a coffee thermos under the bar. Real hot coffee. Don't draw attention to it in R1 — but stare at Irina every time she walks past, and drop a glass when she screams from the laundry. The thermos becomes important in R2.**
 - When the body is found, you look at Irina first. Then you compose yourself and pour everyone a stiff drink.
 
 ### GLORIA REYES
 - Arrive in linen and blowout. Be the PTA mom. Ask about families. Remember names. Speak softly — make people lean in.
 - Be warm to everyone. Touch people on the arm. You are the least suspicious person in the room.
-- Check your watch occasionally. Don't be obvious about it.
+- **Check your watch every two minutes. Not subtle. Just often enough that someone counts.** The Mentalist will count out loud later.
+- **In your tote you carry a printed photo of Diego (your firstborn) — don't show it to anyone. It's tucked at the bottom.**
+- **Also at the bottom of the tote:** a pre-stained handkerchief, a brown Sharpie wrapped in masking tape labeled "INSULIN" (this is your "insulin pen"), and a "burn this" note. Don't pull any of them out — they will surface when the Mentalist searches your bag in Round 3.
 - When the body is found, be composed. Put your arm around Pam. Check on Marco with a glance, not words.
 
 ### PAM WORTHINGTON
+- **You are operatically drunk. You carry an oversized novelty wine glass — fishbowl-style. Drink from it constantly. Slur. Hang off Gloria. The audience should be laughing at you within ten minutes.**
 - You're already tipsy when the round starts. Order "whatever's strongest." Joke about finding your next spouse.
 - Mention you and Paloma "had some things to work through." Don't elaborate.
-- Get progressively louder. Laugh too much. Touch people too much.
+- Get progressively louder. Laugh too much. Touch people too much. **Try to stand up at one point and visibly fail to do it without holding onto someone.**
 - When the body is found, you look physically ill. You were just saying you needed to talk to Paloma.
 
 ### DOUG KAMINSKI
 - **You are NOT at the party yet.** If anyone asks about you, other characters should say: "The Duke? Porta potty emergency in Pittsburgh. Said he'd be here by midnight."
 - You arrive at the very end of Round 1, AFTER the body is found. Walk in through the main entrance acting shocked. "What did I miss? What happened?"
 - Be loud, confused, and immediately start cracking nervous jokes.
+- **As soon as someone questions where you've been, pull out the giant Pittsburgh tourist receipt and wave it. "I just flew in! Pittsburgh! Porta potty emergency!" Wave it again every time someone questions you. It's printed in Comic Sans and dated tomorrow on purpose. Don't draw attention to that — let the Mentalist catch it in R2.**
 
 ### IRINA VOLKOV
 - Stay in the background. Manage staff. Be efficient and quiet. Nod when spoken to.
@@ -67,6 +84,7 @@
 ### FIONA BEAUMONT (Photographer)
 - Snap photos of everything. Show people shots on your phone. Be nosy and friendly.
 - Take note of who's talking to whom. You're documenting the party.
+- **Specifically photograph Marco when he opens his wallet to look at the photo inside. Make a small show of it: "Sorry, candid shot, ignore me." You won't show this picture until R3 Beat 3 — but the host has already pre-loaded a close-up on your phone for that moment.**
 
 ### DESTINY RIVERS (Influencer)
 - Film everything. Narrate to your phone. "This vibe is everything." Be loud and visible.
@@ -85,14 +103,14 @@
 
 ### FIONA / DESTINY / ZOYA / JIMMY — when the body is found, react and gather with everyone else. You're witnesses, not suspects.
 
-### LORRAINE CHU / GERALD FINCH
+### GERALD FINCH
 - You're in the conference room area. You don't attend the party — you're working with Gloria on tax strategy. You arrive in the lobby AFTER the body is found.
 
 ### NADIA OSEI (DJ)
 - You're at the DJ booth. Keep the music going. Watch who comes and goes.
+- **At 9:55 PM (real-time, host will signal you), pretend to take a phone photo from the booth toward the main structure. The host has already pre-loaded the actual photo on your phone — you'll show it in R2.**
+- **Mention casually to anyone nearby:** "I take pictures from the booth when sets are slow." This pre-establishes the photo without giving away that it'll matter.
 
 ### PEPE STEVENS (Maintenance)
 - You're not at the party — you're fixing a generator. You arrive when you hear the commotion.
 
-### SASHA KIMURA (Paloma's Assistant)
-- You're at the front desk. You arrive in the lobby when you hear the scream. You look terrified.

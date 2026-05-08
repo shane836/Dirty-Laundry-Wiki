@@ -1,3 +1,21 @@
+---
+type: dossier
+character: "Pepe Stevens"
+player_name: "Boris"
+aliases: [Pepe, "Pepe Stevens"]
+role: WITNESS
+is_killer: false
+gender: Male
+age_range: "40s"
+alibi: "Far side of property fixing generator from 6 PM"
+alibi_location: "Generator shed (far property)"
+alibi_break: "None"
+connections: ["[[Rosa]]", "[[Irina]]"]
+affiliations: [Hotel maintenance]
+secrets_count: 0
+tags: [character, witness, hotel-staff]
+---
+
 # Pepe Stevens Game Packet
 
 > **READ BEFORE THE PARTY**

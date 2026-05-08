@@ -1,3 +1,21 @@
+---
+type: dossier
+character: "Gloria Reyes"
+player_name: "Mollie"
+aliases: [Gloria, "Gloria Reyes"]
+role: SUSPECT
+is_killer: true
+gender: Female
+age_range: "Late 40s"
+alibi: "Conference room with Gerald and Lorraine"
+alibi_location: "Conference room"
+alibi_break: "Stepped out around 10:25 PM for ~10 min (the kill)"
+connections: ["[[Marco]]", "[[Diego]]", "[[Irina]]", "[[Dex]]", "[[Pam]]", "[[Doug]]"]
+affiliations: [Cartel operator]
+secrets_count: 3
+tags: [character, suspect, killer]
+---
+
 # Gloria Reyes Game Packet
 
 > **READ BEFORE THE PARTY**

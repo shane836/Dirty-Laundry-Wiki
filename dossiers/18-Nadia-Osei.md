@@ -1,3 +1,21 @@
+---
+type: dossier
+character: "Nadia Osei"
+player_name: ""
+aliases: [Nadia, "Nadia Osei"]
+role: WITNESS
+is_killer: false
+gender: Female
+age_range: "Late 20s"
+alibi: "DJ booth all night"
+alibi_location: "DJ booth (poolside)"
+alibi_break: "None (visible to dozens)"
+connections: ["[[Doug]]", "[[Val]]", "[[Gloria]]"]
+affiliations: [DJ / entertainment]
+secrets_count: 0
+tags: [character, witness]
+---
+
 # Nadia Osei Game Packet
 
 > **READ BEFORE THE PARTY**

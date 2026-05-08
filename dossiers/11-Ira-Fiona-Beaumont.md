@@ -1,3 +1,21 @@
+---
+type: dossier
+character: "Fiona Beaumont"
+player_name: "Ira"
+aliases: [Fiona, "Fiona Beaumont"]
+role: WITNESS
+is_killer: false
+gender: Female
+age_range: "Around 30"
+alibi: "Filming externally (courtyard, pool, lobby)"
+alibi_location: "External hotel areas"
+alibi_break: "None (timestamped continuously from before 7 PM)"
+connections: ["[[Val]]", "[[Paloma]]", "[[Marco]]", "[[Sunny]]"]
+affiliations: [Press / photographer]
+secrets_count: 0
+tags: [character, witness]
+---
+
 # Fiona Beaumont Game Packet
 
 > **READ BEFORE THE PARTY**
