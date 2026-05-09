@@ -1,7 +1,7 @@
 ---
 type: dossier
 character: "Nadia Osei"
-player_name: ""
+player_name: "Lindsay Liu"
 aliases: [Nadia, "Nadia Osei"]
 role: WITNESS
 is_killer: false
