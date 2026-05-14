@@ -1,11 +1,3 @@
----
-type: reference
-category: costumes
-title: "Costume Guide"
-version: v3
-tags: [reference, costumes]
----
-
 # Costume Guide — Dirty Laundry v3
 
 Send this to players ahead of the party so they can dress the part. No plot details included.

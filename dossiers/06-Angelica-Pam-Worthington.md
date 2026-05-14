@@ -1,21 +1,3 @@
----
-type: dossier
-character: "Pam Worthington"
-player_name: "Angelica"
-aliases: [Pam, "Pam Worthington"]
-role: SUSPECT
-is_killer: false
-gender: Female
-age_range: "Mid 40s"
-alibi: "At the party (blacked out from ~9:30 PM)"
-alibi_location: "Party (woke up near laundry room at 11:30 PM)"
-alibi_break: "Blackout 9:30-11:30 PM; chemical residue on hand"
-connections: ["[[Paloma]]", "[[Gloria]]", "[[Irina]]"]
-affiliations: [Conference attendee]
-secrets_count: 3
-tags: [character, suspect]
----
-
 # Pam Worthington Game Packet
 
 > **READ BEFORE THE PARTY**

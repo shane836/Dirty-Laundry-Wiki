@@ -1,21 +1,3 @@
----
-type: dossier
-character: "Diego Reyes"
-player_name: "Esther"
-aliases: [Diego, "Diego Reyes"]
-role: GHOST
-is_killer: false
-gender: Male
-age_range: "Age 22 (deceased)"
-alibi: "Deceased two years ago"
-alibi_location: ""
-alibi_break: ""
-connections: ["[[Gloria]]", "[[Marco]]", "[[Paloma]]"]
-affiliations: [Reyes family]
-secrets_count: 0
-tags: [character, ghost, minor]
----
-
 # Diego Reyes (Ghost) Game Packet
 
 > **READ BEFORE THE PARTY**

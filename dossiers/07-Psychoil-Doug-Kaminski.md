@@ -1,21 +1,3 @@
----
-type: dossier
-character: "Doug Kaminski"
-player_name: "Psychoil"
-aliases: [Doug, "Doug Kaminski", "The Duke"]
-role: SUSPECT
-is_killer: false
-gender: Male
-age_range: "Early 50s"
-alibi: "Pittsburgh (fabricated; arrived via service entrance)"
-alibi_location: "Claimed Pittsburgh; actually hotel service entrance"
-alibi_break: "4 hours unaccounted for at the hotel"
-connections: ["[[Gloria]]", "[[Val]]", "[[Dex]]", "[[Pam]]"]
-affiliations: [Money laundering for Gloria's cartel]
-secrets_count: 3
-tags: [character, suspect]
----
-
 # Doug Kaminski Game Packet
 
 > **READ BEFORE THE PARTY**

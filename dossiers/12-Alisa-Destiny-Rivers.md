@@ -1,21 +1,3 @@
----
-type: dossier
-character: "Destiny Rivers"
-player_name: "Alisa"
-aliases: [Destiny, "Destiny Rivers"]
-role: WITNESS
-is_killer: false
-gender: Female
-age_range: "Early 20s"
-alibi: "Live-streaming continuously 8:30-11:45 PM"
-alibi_location: "Main party area"
-alibi_break: "None (geolocation-confirmed)"
-connections: ["[[Pam]]", "[[Zane]]", "[[Irina]]", "[[Gloria]]", "[[Val]]"]
-affiliations: [Influencer / content partner]
-secrets_count: 0
-tags: [character, witness]
----
-
 # Destiny Rivers Game Packet
 
 > **READ BEFORE THE PARTY**

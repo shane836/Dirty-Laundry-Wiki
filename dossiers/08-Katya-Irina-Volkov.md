@@ -1,21 +1,3 @@
----
-type: dossier
-character: "Irina Volkov"
-player_name: "Katya"
-aliases: [Irina, "Irina Volkov"]
-role: SUSPECT
-is_killer: false
-gender: Female
-age_range: "Around 50"
-alibi: "Laundry area all night"
-alibi_location: "Hotel laundry"
-alibi_break: "Same location as opportunity; delivered poisoned shirt at 7 PM"
-connections: ["[[Gloria]]", "[[Marco]]", "[[Dex]]", "[[Paloma]]"]
-affiliations: [Hotel staff, Gloria's operative]
-secrets_count: 3
-tags: [character, suspect, accomplice, hotel-staff]
----
-
 # Irina Volkov Game Packet
 
 > **READ BEFORE THE PARTY**

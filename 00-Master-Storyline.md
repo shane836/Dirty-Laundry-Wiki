@@ -1,12 +1,3 @@
----
-type: storyline
-title: "Master Storyline — Dirty Laundry"
-audience: host-only
-killer: "Gloria Reyes"
-victim: "Paloma Rathbone"
-tags: [storyline, host-only, spoilers]
----
-
 # DIRTY LAUNDRY: MURDER IN THE CAYMANS
 ## Master Storyline — Gloria Reyes is the Killer
 
@@ -16,7 +7,7 @@ tags: [storyline, host-only, spoilers]
 
 Gloria Reyes killed Paloma Rathbone. She used two methods:
 
-**Method 1 — The Shirt (cartel logic):** Days before the party, Gloria gave Irina Volkov a slow-acting dermal toxin (a brown, plant-derived compound that looks and disguises as coffee or cocoa) and ordered her to lace Paloma's dress shirt through the hotel laundry. Irina prepared the shirt and routed it through normal garment service to Paloma's room at 7 PM. Paloma put it on. The toxin left a dark brown stain on the collar — easily mistaken for a careless coffee spill. Over several hours, it caused headaches, dizziness, and nausea — weakening her but not killing her quickly. This was the cold, deniable plan. *Irina kept Gloria's instruction note ("Shirt ready by 7. Use everything. Burn this. — G.") scorched at one corner in her apron pocket. She tried to burn it and failed. It will surface in Round 3.*
+**Method 1 — The Shirt (cartel logic):** Days before the party, Gloria gave Irina Volkov a slow-acting dermal toxin and ordered her to lace Paloma's dress shirt through the hotel laundry. Irina prepared the shirt and routed it through normal garment service to Paloma's room at 7 PM. Paloma put it on. Over several hours, the toxin caused headaches, dizziness, and nausea — weakening her but not killing her quickly. This was the cold, deniable plan.
 
 **Method 2 — The Injection (a mother's grief):** At 10:25 PM, Gloria slipped out of the conference room through the side exit to the service corridor. She found Paloma stumbling near the laundry area, disoriented from the poisoned shirt. Gloria carried an insulin pen loaded with a fast-acting paralytic. She injected Paloma in the neck. Ninety seconds. Paloma stopped breathing. Gloria placed her body in a laundry basket and returned to the conference room within fifteen minutes.
 
@@ -73,9 +64,7 @@ The music stops."
 
 **Guide players to the side structure (laundry room). Describe the scene:**
 - Paloma Rathbone, face-down in a laundry basket. Dead. Blue-tinged lips.
-- A vivid dark brown stain on her shirt collar — looks at first like a careless coffee spill, but the wrong shape (a deliberate smear, not a drip). Visible from across the laundry.
-- A small red puncture wound on the side of her neck. Two parallel drips run from it down to the collar — one red, one brown.
-- A bloodstained cotton ball on the floor about three feet from the basket. A small clear needle cap further down the corridor.
+- Yellowish-white residue on her shirt collar. Faint chemical smell.
 - Empty bottle of expensive Russian vodka on the floor.
 - Her phone — cracked screen, battery dead.
 
@@ -120,7 +109,7 @@ Take each character in order. After each alibi: 1-2 minutes for questions from o
 
 **Dex:** "Behind the bar. Ask anyone." Took a 20-minute break around 10:15. Won't explain where he went. Deflects with humor.
 
-**Gloria:** "Conference room. Discussing tax strategies with Gerald Finch." Gerald confirms — a little too readily. Nods before Gloria even speaks.
+**Gloria:** "Conference room. Discussing tax strategies with Gerald Finch and Lorraine Chu." Gerald and Lorraine confirm — a little too readily. Both nod before Gloria even speaks.
 
 **Pam:** "At the party. I think. I had several drinks. I'm honestly fuzzy after 9:30." Can't remember anything. Chemical burn on her hand she can't explain. Looks like she's about to cry. Gloria puts an arm around her.
 
@@ -130,58 +119,119 @@ Take each character in order. After each alibi: 1-2 minutes for questions from o
 
 **Sunny:** "At the party the whole time. Networking. Spoke with Val, then Marco, then Dex, then Pam." Lists names too precisely. Sounds rehearsed. Who remembers every minute?
 
-### Revelations (choreographed — see `round cards/24-Round-Cards-R2.md` for full Cue/Holder/Prop/Line/Reactor blocking)
+### Secrets Surface
 
-Run these ten revelations in order, 3–4 minutes apart. The full choreography is on the Round 2 cards. Summary:
+Space these 3-5 minutes apart. Hammer blows, not gentle questions.
 
-1. **Nadia's booth photo** — pre-loaded photo of Val's back staircase open at 9:55 PM. (Val misdirect setup.)
-2. **The valet log** — Marco's log shows a 9:58–10:13 gap. He drops his keys (first of three).
-3. **The incident report** — Rosa shows the report with Marco's anger-scratched signature. Marco drops his keys again.
-4. **The beach photos** — Fiona texts the photos to the group chat. Val: "Delete those."
-5. **The "we're done" text** — Destiny holds up a printout (screenshots) showing Paloma sent the same text to four people. Pam isn't special.
-6. **The broken spray bottle** — Pepe holds up the broken spray bottle and a fragrance bottle from the supply closet. Pam is cleared. Mentalist: "You couldn't find the laundry with a map."
-7. **The Pittsburgh receipt** — Doug's receipt is in Comic Sans, dated tomorrow. He cracks: "I got in at 9:45. I had business." Doug cleared as the killer (exposed as a launderer).
-8. **The thermos** — Jimmy outs Dex's morning coffee runs to Irina. Dex pours real coffee on the bartop. *That* is coffee. Whatever's on Paloma's collar isn't. Dex cleared.
-9. **Sunny's badge** — Sunny stands, drops the corporate persona, produces federal badge and printed indictment list. "Paloma was my informant. She was going to testify against everyone in this room on Monday." Sunny cleared. Existential motive sharpens.
-10. **The watch count** — Mentalist: "Mrs. Reyes. That's four times in the last ten minutes. Are we keeping you?" Gerald sweats through his shirt.
+**Revelation 1 — Val and Paloma's relationship:**
+Fiona (the photographer) mentions: "Val, I got great shots of you and Paloma on the beach yesterday. You two seemed... intense." Val's face hardens. Photos show them arguing — Val crying, Paloma pointing. Players realize Val and Paloma had a relationship. Val won't say more.
 
-**End Round 2.** The live board going into R3: **Val, Marco, Irina, Gloria.** Flip timestamp to ROUND 3 — 11:00 PM. Break.
+**Revelation 2 — The car scratch:**
+Marco's rage over Paloma calling him a "local punk" over a parking scratch looks disproportionate. Rosa has an incident report. "The look on Marco's face was unsettling."
+
+**Revelation 3 — Pam's spiral:**
+Destiny filmed Pam getting progressively drunker. "She went from fun aunt to scary aunt in two hours." A text from Paloma found on her phone: "We need to talk. We're done. I mean it this time." Pam and Paloma had something going on. Pam won't say what.
+
+**Revelation 4 — The margarita incident:**
+Zane mentions Paloma "accidentally" spilled a margarita on him at dinner — twice. Dex spilled one on Paloma too. The spills look deliberate. Zane's hardware wallet got soaked. He's been panicking about it.
+
+**Revelation 5 — Dex and Doug:**
+Someone notices: "Wait, do you two know each other?" Dex and Doug clearly have history. Neither has mentioned it.
+
+**Revelation 6 — The Timeline (Rosa delivers data to Mentalist):**
+
+Rosa hands the Mentalist key card logs. **Mentalist reads aloud:**
+
+"A master key was used to access the service area at 10:07 PM. Only four people have master keys — Rosa, who was on a video call with corporate. Irina, who was in the laundry. Marco, whose key was checked out. And maintenance, who's off-island. There's also an owner's override card that bypasses the standard system. Only one exists. It belongs to whoever owns this hotel."
+
+Mentalist looks at Marco: "Where was your master key at 10:07?"
+
+Marco: "I was moving a car into the service garage. Routine valet task. It's logged."
+
+Mentalist: "Then why do you look like you're about to be sick?"
+
+**End Round 2.** Flip timestamp to ROUND 3 — 11:00 PM. Break.
 
 ---
 
 ## ROUND 3 — "THE INVESTIGATION"
 ### In-Game Time: 11:00 PM – Midnight | Real Duration: ~45 minutes
 
-This is the longest round. Evidence piles up. Five matching browns line up on the table. Pace the beats — let players argue and theorize between reveals. The full Cue/Holder/Prop/Line/Reactor choreography is in `round cards/25-Round-Cards-R3.md`. Summary:
+This is the longest round. Evidence piles up. Suspects are eliminated one by one until Gloria is cornered. Pace the beats — let players argue and theorize between reveals.
 
-### Beat 1 — The override card (Val takes the spotlight)
-Override-card log: 10:05 PM, Paloma's floor. Only Val has the card. Zane breaks: "She left for ice. Twenty minutes." Nadia: "I saw the silhouette on the back staircase. Ten o'clock." **Val is the prime suspect.** Hold for 3–4 minutes of theorizing.
+### Beat 1 — Val looks guilty (early Round 3)
 
-### Beat 2 — The valet master key (Marco takes the spotlight)
-Master-key swipe at 10:07 PM. Pepe corroborates the car move — but the 15-minute valet gap remains. Marco drops his keys for the third time. **Now Val OR Marco look guilty.** Hold for theorizing.
+The owner's override card was swiped at 10:05 PM on Paloma's floor. Only Val has that card.
 
-### Beat 3 — The two photos of Diego (the Gloria-Marco connection lands physically)
-Zoya: "Marco — Marco is her son." Mentalist: "Prove it." Fiona shows the close-up she shot of Marco's open wallet — Diego's photo. Mentalist opens Gloria's tote, lifts out a loose printed photo. **Same photo. Same boy. Same picture.** Marco is silent. Gloria is silent. Diego steps forward.
+Mentalist: "Ms. Montecito. Your override card accessed Paloma's floor two minutes before the master key hit the service area. What were you doing on Paloma's floor at 10:05 PM?"
 
-### Beat 4 — Diego speaks (the motive lands)
-Diego: "Paloma traded my name to a rival cartel for information." Zoya: "Gloria buried her firstborn two years ago." Jimmy: "She came to me. She said she'd do 'anything' to protect her children. I think we know what 'anything' meant." Gloria's composure cracks for one beat.
+Val denies it. Zane looks panicked. Under pressure, Zane admits Val left the suite for "maybe twenty minutes" around 10. "She said she was getting ice."
 
-### Beat 5 — The shirt traced (Irina takes the spotlight, accomplice not killer)
-Mentalist holds up the collar — dark brown stain. Pepe holds up the **coffee tin** from Irina's laundry cart, opens it, pours out brown poison powder. "Labeled coffee. Isn't coffee. Same brown as the collar." Destiny plays the livestream clip of Irina with the garment bag at 7 PM. Irina pulls the burnt-edge note from her apron, drops the broken English, names Gloria. Mentalist reads aloud: "*Shirt ready by 7. Use everything. Burn this. — G.*"
+Nadia (the DJ) adds: "I saw someone on the back staircase from Val's floor around 10 PM. Couldn't tell who."
 
-### Beat 6 — The autopsy and the corridor (two methods become physical)
-Pepe holds up the bloodstained cotton ball and the needle cap from the corridor floor. Mentalist reads autopsy: "Puncture wound, left side of the neck. Paralytic. Same brown color signature as the shirt and the powder." Players walk to the body. Two parallel drips visible — one red, one brown. The chain locks.
+**Val is now the prime suspect.** Let players sit with this.
 
-### Beat 7 — Gloria's tote (the smoking guns)
-Mentalist asks Gloria to empty her bag. Sunny steps in with the federal badge. Items emerge one at a time: the printed Diego photo, **handkerchief with red Kool-Aid drop and brown smear**, and **a brown Sharpie wrapped in masking tape labeled "INSULIN."** Mentalist peels back the tape: "This is a Sharpie." Sunny holds the Sharpie next to the collar next to the handkerchief next to Gloria's stained cuff next to the powder in Irina's coffee tin. **Five matching browns in a line.** Mentalist walks to Dex's thermos, opens it, steam rising. "*That* is coffee. *This* is the same brown as the stain on Ms. Rathbone's collar."
+### Beat 2 — Zane looks guilty too
 
-### Beat 8 — Gerald cracks
-Gerald, sweating through his shirt, mops his face with a soaked handkerchief: "She left. Around 10:25. She said restroom. And she checked her watch four times in ten minutes before she left. Like she was waiting for a window."
+Zane's crypto crisis comes out. His hardware wallet was deliberately destroyed — Paloma spilled the margaritas on purpose to sabotage it. A fortune in proceeds from Val's operation was on that wallet. Zane has been hiding this from both Val and Gloria.
 
-### Beat 9 — Marco's eyewitness AND Val cleared
-Pepe hands the Mentalist the **maintenance work order** signed by Val at 10:05 PM — a leaking unit on Floor 3. **Val is cleared.** Marco drops his keys for the last time, looks at Gloria. "I saw her near the service stairwell. 10:25. She had her hand in her tote. I knew. I've known all night."
+Zane under pressure: "She's going to kill me. Gloria is going to kill me." Players realize Zane could have gone to Paloma's room to confront her about the wallet.
 
-**Gloria is cornered.** The round ends here. Save the confession for Round 4.
+**Both Val and Zane now look plausible.** Good — this is the misdirection.
+
+### Beat 3 — Gloria and Marco's relationship revealed
+
+Zoya (the retired lawyer) has been watching quietly. She speaks up:
+
+"I've known Gloria for thirty years. I never forget a face. Marco — Marco is her son."
+
+Silence. Gloria and Marco's careful distance at the party wasn't professionalism. It was cover. Everything reframes.
+
+### Beat 4 — Diego's death
+
+Zoya continues: "Gloria's firstborn, Diego. Killed two years ago. Twenty-two years old. Paloma had something to do with it — fed bad intelligence to a rival operation. Diego was collateral."
+
+If Diego's ghost is in the room, this is their moment. They can confirm, add emotional weight, tell the story from their perspective.
+
+Marco's rage about the car scratch now makes sense. It was never about the car.
+
+### Beat 5 — The poisoned shirt traced
+
+The residue on Paloma's collar is analyzed (Mentalist reveals): a slow-acting dermal toxin. Not something you find at a hotel. Someone supplied it, someone applied it through the laundry system.
+
+Destiny's footage shows Irina carrying a garment bag to Paloma's floor at 7 PM — moving fast, avoiding cameras.
+
+Under pressure, Irina breaks. She drops the halting English. Clear voice, precise: "Gloria gave me the compound. Gloria ordered the shirt poisoned. I delivered it. I did what I was told."
+
+### Beat 6 — Two methods
+
+But the toxin was slow-acting. It would have weakened Paloma over hours but not killed her quickly. Something else finished the job.
+
+Mentalist reveals autopsy finding: a puncture wound on Paloma's neck. A fast-acting paralytic injection. Different compound from the shirt.
+
+Two separate attacks. The shirt was the setup. The injection was the kill shot.
+
+### Beat 7 — The insulin pen
+
+Gloria's purse is searched (Mentalist asks to see it, or another player challenges her). She carries an insulin pen. She's not diabetic. Traces of a paralytic agent.
+
+### Beat 8 — Sunny's cover blown
+
+Sunny steps forward. Drops the corporate persona entirely.
+
+"I'm not a consultant. I'm a federal agent — IRS and Interpol joint task force. Paloma Rathbone was my informant. She was going to testify against every person in this room. Her death didn't just end a life. It ended a three-year investigation."
+
+This reframes everything. Paloma wasn't just killed over personal grudges. Her testimony would have brought down Gloria's entire operation. Diego was personal motive. The federal case was existential motive.
+
+### Beat 9 — Gloria's alibi cracks
+
+Gerald Finch (under pressure from the Mentalist or other players) cracks: "Gloria stepped out for maybe five or ten minutes around 10:25. She said she was going to the restroom. I didn't think it was important."
+
+The side exit from the conference room connects to the service corridor. Three minutes to the laundry area.
+
+Marco, finally: "I saw her. Near the service stairwell. Around 10:25. I didn't say anything because... she's my mother."
+
+**Val is cleared.** The override card swipe at 10:05 was Val checking on something in her own hotel — unrelated to the murder. Gloria is cornered.
 
 ---
 

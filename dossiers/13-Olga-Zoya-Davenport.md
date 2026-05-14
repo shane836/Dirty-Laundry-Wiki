@@ -1,21 +1,3 @@
----
-type: dossier
-character: "Zoya Davenport"
-player_name: "Olga"
-aliases: [Zoya, "Zoya Davenport"]
-role: WITNESS
-is_killer: false
-gender: Female
-age_range: "Late 50s"
-alibi: "Lobby bar 7 PM-midnight"
-alibi_location: "Lobby bar"
-alibi_break: "None"
-connections: ["[[Paloma]]", "[[Gloria]]", "[[Dex]]", "[[Doug]]", "[[Irina]]", "[[Marco]]", "[[Val]]"]
-affiliations: [Retired tax attorney]
-secrets_count: 0
-tags: [character, witness]
----
-
 # Zoya Davenport Game Packet
 
 > **READ BEFORE THE PARTY**

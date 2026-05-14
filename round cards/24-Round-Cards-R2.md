@@ -1,18 +1,7 @@
----
-type: round-card
-round: 2
-title: "Everyone's a Suspect"
-in_game_time: "10:00 PM – 11:00 PM"
-scene: "Inside main structure; alibi round, secrets surface"
-tags: [round-card, round-2]
----
-
 # Round 2 Cards — "Everyone's a Suspect"
 ### In-Game Time: 10:00 PM – 11:00 PM | Flipboard: ROUND 2 — 10:00 PM
 
-**Scene:** Everyone's inside (main structure). The party is over. The Mentalist runs the alibi round, then secrets surface in a numbered, choreographed sequence.
-
-**How revelations work this round:** Each revelation is **Cue → Holder → Prop → Line → Reactor.** The Mentalist calls the cue. A named character produces a named prop. They speak a scripted line. One or two named characters react in a scripted way. No one improvises a reveal — the choreography below tells you exactly what to do and when.
+**Scene:** Everyone's inside (main structure). The party is over. The Mentalist runs the alibi round, then secrets start surfacing.
 
 ---
 
@@ -43,7 +32,7 @@ tags: [round-card, round-2]
 - If asked about the margarita spill on Paloma: smile. Don't answer. That IS the answer.
 
 ### GLORIA REYES
-- **Your alibi:** "Conference room. Tax shelter strategies with Gerald Finch." Smooth, prepared. Gerald nods before you finish speaking.
+- **Your alibi:** "Conference room. Tax shelter strategies with Gerald Finch and Lorraine Chu." Smooth, prepared. Gerald and Lorraine nod before you finish speaking.
 - Be calm. Steady hands. Steady voice. Check your watch once — catch yourself doing it.
 - When Pam gets emotional, put your arm around her. "Leave her alone. She's grieving."
 - When the master key swipe is announced, show no reaction. You're the calmest person in the room. That should worry people.
@@ -74,120 +63,43 @@ tags: [round-card, round-2]
 
 ---
 
-## REVELATION CHOREOGRAPHY (after the alibi round)
-
-The Mentalist runs revelations in this exact order. Each minor character below has scripted moments — find your name and follow the cues.
-
----
-
-### REVELATION 1 — Nadia's booth photo (Val misdirect setup)
-- **Cue (Mentalist):** "Ms. Osei, you said you had eyes on Ms. Montecito's back staircase. Show us."
-- **NADIA:** Hold up your phone. The host pre-loaded the photo from the DJ booth at 9:55 PM. Val's back staircase door is open and a silhouette is inside. Say: "I take pictures from the booth when sets are slow. I caught this around ten. Door was open. Somebody was inside."
-- **VAL:** Grip your champagne glass white-knuckled. Don't speak.
-- **ZANE:** Look at Val. Don't speak.
-
-### REVELATION 2 — The valet log (Marco misdirect setup)
-- **Cue (Mentalist):** "Mr. Reyes, your log."
-- **MARCO:** Hand over the valet log sheet (visible 9:58–10:13 gap). Say: "Bathroom break. Fifteen minutes."
-- **MENTALIST:** "Fifteen minutes. The bathroom is six feet from your stand."
-- **MARCO:** Drop your car keys loudly. (First of three drops tonight.)
-- **PEPE:** Raise your hand. "I smelled his cigarette behind the shed at ten."
-
-### REVELATION 3 — The incident report (Marco motive setup)
-- **Cue (Mentalist):** "Rosa, the report." (If no Rosa player, the Mentalist reads it.)
-- **ROSA / MENTALIST:** Hold up the hotel-letterhead incident report. The comments box has a heavy black scratch where Marco signed in anger. Say: "Three weeks ago, Ms. Rathbone called Mr. Reyes a 'local punk' over a parking scratch. He scratched through his own comments. Look at the pen pressure."
-- **MARCO:** Drop your keys again. (Second drop.) Don't look at Gloria.
-- **GLORIA:** Do NOT look at Marco. (The non-look is its own tell.)
-
-### REVELATION 4 — The beach photos (Val motive)
-- **Cue (Mentalist):** "Ms. Beaumont, the camera."
-- **FIONA:** Send the beach photos to the group chat in real time. Say: "I shot these yesterday. Val and Paloma. That's not a friendly conversation."
-- **VAL:** "Delete those."
-- **PAM (slurring, hanging off Gloria):** "Wait, you and Palooooma?"
-
-### REVELATION 5 — The "we're done" text (Pam fake-out)
-- **Cue (Mentalist):** "Ms. Rivers, the screenshots."
-- **DESTINY:** Hold up the printed text-history. Say: "I screenshot everything. Ms. Rathbone sent this same text to four people in April. Mrs. Worthington was one of them. So was Ms. Montecito. Two more I won't name."
-- **PAM:** Try to drink from your novelty glass and miss your mouth.
-- **VAL:** Freeze.
-
-### REVELATION 6 — The broken spray bottle (Pam cleared)
-- **Cue (Mentalist):** "Mr. Stevens, you said something about your closet."
-- **PEPE:** Hold up the broken spray bottle and a small fragrance bottle that matches Pam's vial. Say: "Mrs. Worthington broke into my supply closet around 10. Knocked this spray bottle off the shelf — that's her burn. Grabbed this fragrance bottle on the way out. It's not the killer's vial. It's room scent. We have forty."
-- **PAM:** "I did?"
-- **MENTALIST:** "Mrs. Worthington, you couldn't find the laundry with a map. You're cleared."
-- **PAM:** Toast the room with your fishbowl glass.
-
-### REVELATION 7 — The Pittsburgh receipt (Doug cleared, exposed as a launderer)
-- **Cue (Mentalist):** "Mr. Kaminski, your receipt."
-- **DOUG:** Wave the giant fake receipt.
-- **MENTALIST:** *(holds it up to the light)* "This is dated tomorrow. And it's in Comic Sans."
-- **DOUG:** "Fine! I got in at 9:45. I came through the service door. I had business."
-- **MENTALIST:** "What kind of business uses a service door at a money-laundering convention?"
-- **DOUG:** Look at Gloria.
-- **GLORIA:** Do not look back. (Another non-look.)
-- **MENTALIST:** *(reads from the keycard log)* "His keycard hit his room at 9:50 and didn't move until midnight." **Doug is cleared as the killer.**
-
-### REVELATION 8 — The thermos (Dex cleared via the coffee misdirect)
-- **Cue (Mentalist):** "Reverend, you mentioned coffee."
-- **JIMMY:** "Five AM. Mr. Calloway leaving Mrs. Volkov's quarters with two coffees. I see things, even early. There's also a thermos of coffee under the bar. He's been bringing it to her for six months."
-- **DEX:** Pull the thermos out. Unscrew it — let the steam show. Pour a cup on the bartop. Say: "It's coffee. Smell it. It's been coffee for six months."
-- **MENTALIST (deliberately):** "And the brown stain we keep talking about?"
-- **DEX (steady):** "That's not my coffee. My coffee doesn't end up on Ms. Rathbone's collar."
-- **MENTALIST:** "Mr. Calloway, you're not a killer. You're a heartbroken bartender." **Dex is cleared.**
-- **IRINA:** Turn your face away from Dex. (Sets up R4.)
-
-### REVELATION 9 — Sunny's badge (federal stakes raised, Sunny cleared, motive sharpened)
-- **Cue (Mentalist):** "Mr. Patel, you've been very quiet. Stand up."
-- **SUNNY:** Stand. Drop the corporate persona entirely. Open the padfolio. Produce the federal badge and the printed indictment list. Say: "I'm not a consultant. IRS-Interpol joint task force. Paloma was my informant. She was going to testify against everyone in this room on Monday. Whoever killed her destroyed three years of work and saved every operation in this hotel."
-- **VAL:** Drop your champagne glass. (It shatters or doesn't — actor's choice.)
-- **ZANE:** "Oh god."
-- **GLORIA:** Do not move.
-- **DOUG:** "Aw, hell."
-- **MENTALIST:** Hand the indictment list to the room. Players read names.
-
-### REVELATION 10 — The watch count (Gloria flagged for the first time)
-- **Cue (Mentalist):** *(checks pocket watch, then looks at Gloria)* "Mrs. Reyes. That's four times in the last ten minutes you've checked your watch. Are we keeping you?"
-- **GLORIA:** Smile. "Force of habit. PTA."
-- **GERALD:** Visibly sweat. Mop your face with your now-soaked handkerchief.
-
-**End of Round 2.** The live board going into Round 3: **Val, Marco, Irina, Gloria.** Pam, Doug, Zane, Dex, and Sunny are cleared as the killer (though Doug, Zane, and Dex are exposed for other things).
-
----
-
-## ALL-NIGHT ROLES (minor characters — your participation in the revelations above)
+## MINOR CHARACTERS
 
 ### FIONA BEAUMONT
-- Revelation 4 (beach photos): hold the holder role.
-- Otherwise: keep photographing. Catch Marco looking at his wallet again — you'll need that for R3.
+- Show the beach photos of Val and Paloma arguing. "Val, you two seemed intense. Want me to delete these?"
+- Ask Marco about the small packages he's been handing out from the valet stand.
 
 ### DESTINY RIVERS
-- Revelation 5 ("we're done" texts): hold the holder role.
-- During the alibi round: confirm you have the garment-bag clip on your phone. Don't show it yet — that's R3 Beat 5.
-- Confirm you filmed Pam's spiral if anyone asks. ("She said she was going to 'make Paloma pay.'")
+- Share that you filmed Pam's drunken spiral. "She said she was going to 'make Paloma pay.' What did you mean, Pam?"
+- Mention you saw Irina with a garment bag at 7 PM heading to Paloma's floor.
+- Mention Val's suite back door was propped open at 9:30.
 
 ### ZOYA DAVENPORT
-- During the alibi round: note that Dex and Doug clearly know each other. "That didn't look like a first meeting."
-- **Save the Gloria/Marco reveal for Round 3 Beat 3.** Don't drop it yet.
+- Note that Dex and Doug clearly know each other. "That didn't look like a first meeting."
+- Mention Paloma giving Irina a book. "They spoke Russian. It was tender."
+- **Save the Gloria/Marco reveal for Round 3.** Don't drop it yet.
 
 ### REV. JIMMY WHITFIELD
-- Revelation 8 (thermos): hold the holder role.
-- Drop earlier in the round: "Paloma came to confession. She sounded like someone who expected to be killed."
-- "Gloria said she'd do 'anything' to protect her children." (Save the weight of that line for R3.)
+- Drop that Paloma came to confession: "She sounded like someone who expected to be killed."
+- Mention Gloria's confession: "She said she'd do 'anything' to protect her children."
+- Ask Dex about the coffee at Irina's quarters.
 
 ### NADIA OSEI
-- Revelation 1 (booth photo): hold the holder role.
-- Earlier: "I saw Doug come in the back way around 9:45. Thought he was in Pittsburgh." (Sets up Revelation 7.)
+- **Critical:** "I saw Doug come in the back way around 9:45. Thought he was in Pittsburgh."
+- Mention the silhouette on Val's back staircase around 10 PM.
 
 ### PEPE STEVENS
-- Revelation 2 (cigarette): the corroborator.
-- Revelation 6 (broken spray bottle + fragrance): hold the holder role.
-- During the alibi round: mention the service stairwell was propped open since 6 PM. Mention chemical supplies missing from the maintenance closet.
+- Mention the service stairwell was propped open since 6 PM. "Someone did that on purpose."
+- Mention chemical supplies missing from the maintenance closet.
+- Drop that you have an extra master key that's not in Rosa's count.
 
-### GERALD FINCH
-- Confirm Gloria's alibi. Nod along. Be visibly uncomfortable.
-- At Revelation 10: mop your face with the pre-dampened handkerchief. The audience should see wet patches.
-- If pressed about Gloria stepping out, hold the line — for now. You'll crack in Round 3.
+### SASHA KIMURA
+- Mention Paloma was acting erratic all week. Paranoid. Drinking heavily.
+- **Do NOT reveal the envelope yet.** Save for Round 3.
+
+### LORRAINE CHU / GERALD FINCH
+- Confirm Gloria's alibi. Both nod along. Be visibly uncomfortable.
+- If pressed individually, hold the line — for now. You'll crack in Round 3.
 
 ### DIEGO REYES (Ghost)
-- Watch the round from the edges. If anyone asks you anything: "I used to know these people. A long time ago." Be cryptic. Drift past Marco once. Marco glances and looks away.
+- Watch the alibi round from the edges. If anyone asks you anything: "I used to know these people. A long time ago." Be cryptic.

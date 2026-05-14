@@ -1,21 +1,3 @@
----
-type: dossier
-character: "Dex Calloway"
-player_name: "Mike"
-aliases: [Dex, "Dex Calloway", "Dexter Villareal"]
-role: SUSPECT
-is_killer: false
-gender: Male
-age_range: "Mid 30s"
-alibi: "Behind bar all night; 20-min break around 10:15 PM"
-alibi_location: "Hotel bar"
-alibi_break: "20-min break around 10:15 PM (bringing Irina food)"
-connections: ["[[Irina]]", "[[Gloria]]", "[[Marco]]", "[[Doug]]", "[[Pam]]"]
-affiliations: [Hotel staff, Former cartel fixer]
-secrets_count: 3
-tags: [character, suspect, hotel-staff]
----
-
 # Dex Calloway Game Packet
 
 > **READ BEFORE THE PARTY**

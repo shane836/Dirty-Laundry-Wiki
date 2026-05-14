@@ -1,21 +1,3 @@
----
-type: dossier
-character: "Val Montecito"
-player_name: "Kristen"
-aliases: [Val, "Val Montecito"]
-role: SUSPECT
-is_killer: false
-gender: Female
-age_range: "Early 30s"
-alibi: "Private suite with Zane from 9:15 PM"
-alibi_location: "Val's private suite"
-alibi_break: "Slipped out with override card to Paloma's floor"
-connections: ["[[Paloma]]", "[[Zane]]", "[[Marco]]", "[[Gloria]]"]
-affiliations: [Hotel ownership, Trafficking operation]
-secrets_count: 3
-tags: [character, suspect]
----
-
 # Val Montecito Game Packet
 
 > **READ BEFORE THE PARTY**

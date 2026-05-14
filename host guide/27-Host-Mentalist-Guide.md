@@ -1,10 +1,3 @@
----
-type: host-guide
-title: "Host Guide — Fortunado Marchand, The Mentalist"
-host_persona: "Fortunado the Magnificent"
-tags: [host-guide, mentalist]
----
-
 # Host Guide — Fortunado Marchand, The Mentalist
 
 **You are Fortunado Marchand, "Fortunado the Magnificent":** A stage mentalist and mind-reader hired as the evening's entertainment. You've performed for kings, cartel bosses, and three sitting senators — none of whom liked the mirror you held up. You read micro-expressions for a living. You spot tells. You have a showman's instinct to fill silence with theater.
@@ -24,7 +17,7 @@ Your authority comes from three places: (1) you're already MC of the party, (2) 
 4. **Set up the flipboard:** Cardboard with flip cards — "ROUND 1 — 8:00 PM" / "ROUND 2 — 10:00 PM" / "ROUND 3 — 11:00 PM" / "ROUND 4 — MIDNIGHT"
 5. **Music:** Steel drum / Caribbean playlist on Bluetooth speaker for the outdoor area. Kill the music when the body is found.
 6. **Prop the service door:** If the side entrance of the main structure has a door, prop it open. This is the "service stairwell exit" that Gloria uses.
-7. **Character nametags:** Print one per player ("VAL MONTECITO — Hotel Owner," etc.) — pin or lanyard.
+7. **Conference badges:** Print "Tax Optimization Seminar — Heathens Hollow, Grand Cayman" badges for all guests.
 8. **Prep the text messages:** Load these on your phone to send to the group chat at scripted moments:
    - Paloma/Val beach argument photo (AI-generated or taken at party start)
    - "We need to talk. We're done. I mean it this time." (Paloma's text to Pam)
@@ -97,15 +90,17 @@ This is the main event. You're driving the investigation, dropping evidence, and
 
 | Time | Beat | What Happens |
 |---|---|---|
-| 0:00 | Override card | 10:05 swipe on Paloma's floor. Zane breaks ("ice, twenty minutes"). Nadia confirms silhouette. **Val is prime suspect.** Hold 3–4 min for theorizing. |
-| 0:08 | Valet master key | 10:07 service-area swipe. Pepe corroborates the car move; the 15-min gap remains. Marco drops his keys (third time). **Val OR Marco look guilty.** |
-| 0:14 | Two photos of Diego | Zoya: "Marco is her son." Mentalist demands proof. Fiona's pre-loaded close-up of Marco's wallet matches the loose printed photo the Mentalist lifts from Gloria's tote. **Same photo. Same picture.** |
-| 0:19 | Diego speaks | Diego (ghost) tells the cartel-trade story. Zoya names the timeline. Jimmy: "She said 'anything.' Now we know what 'anything' meant." Gloria's composure cracks for one beat. |
-| 0:24 | Shirt traced + Irina names Gloria | Mentalist holds up collar. Pepe pours out the "Café Cubano" tin — brown poison powder, not coffee. Destiny plays garment-bag clip. **Irina pulls the burnt note from her apron, drops the broken English, names Gloria.** Mentalist reads the note aloud. |
-| 0:30 | Autopsy + corridor | Pepe holds up the bloodstained cotton ball and needle cap. Mentalist reads autopsy: same brown color signature. Players walk to the body — two parallel drips, red and brown. Chain locking. |
-| 0:35 | Gloria's tote (the smoking guns) | Empty Gloria's bag. **Five matching browns line up on the table:** collar / Irina's tin / Gloria's brown Sharpie ("insulin pen") / handkerchief / Gloria's cuff. Mentalist holds up Dex's thermos for contrast: "*That* is coffee. *This* is the same brown as the stain on Ms. Rathbone's collar." |
-| 0:40 | Gerald cracks | Gerald (visibly sweating through his shirt): "She left. 10:25. Restroom. Four watch checks in ten minutes before she left. Like she was waiting for a window." |
-| 0:43 | Val cleared + Marco's eyewitness | Pepe produces the maintenance work order signed by Val at 10:05 — a leaking unit. **Val cleared.** Marco drops his keys one final time, looks at Gloria: "I saw her at the service stairwell. 10:25." |
+| 0:00 | Val's override card | Reveal 10:05 swipe on Paloma's floor. Press Val. Zane admits she left the suite. Nadia saw someone on the staircase. **Val is prime suspect.** |
+| 0:07 | Zane's crisis | Wallet destruction was deliberate. Zane's massive debt to Gloria exposed. Zane cracks: "Gloria is going to kill me." **Zane now looks plausible too.** |
+| 0:12 | Gloria/Marco reveal | Zoya drops the bomb: "Marco is Gloria's son." Let the room react. |
+| 0:17 | Diego's death | Zoya continues with Diego. Diego's ghost can tell their story. The emotional weight lands. |
+| 0:22 | Poisoned shirt traced | Mentalist reveals chemical analysis. Destiny confirms garment bag footage. Press Irina. **Irina breaks — drops the halting English, speaks clearly, names Gloria.** |
+| 0:27 | Two methods | Reveal the puncture wound. Two separate attacks — shirt and injection. "Who delivered the shirt, and who gave the injection?" |
+| 0:30 | Insulin pen | Search Gloria's purse (ask to see it, or another player challenges her). Not diabetic. Paralytic traces. |
+| 0:33 | Sunny's reveal | Sunny stands and reveals federal agent identity. Paloma was an informant. The stakes go existential. |
+| 0:37 | Sasha's envelope | Sasha reveals the sealed envelope / USB drive. Additional evidence. |
+| 0:40 | Gerald cracks | Press Gerald. He admits Gloria left for ~10 min at 10:25. Lorraine confirms reluctantly. |
+| 0:43 | Marco breaks | Press Marco. He admits seeing Gloria at the service stairwell at 10:25. "She's my mother." |
 
 **Hand out Round 4 cards. Give Gloria her confession envelope if you haven't already.**
 
@@ -127,42 +122,23 @@ This is the main event. You're driving the investigation, dropping evidence, and
 
 These are questions players *will* ask. The round cards point at the evidence but don't always state the canonical answer. Use these so you never freeze.
 
-### Why are there five matching browns?
+### What's on Sasha's USB drive?
 
-**The chain locks here.** The poisoned shirt's collar, the powder in Irina's mislabeled "Café Cubano" tin, the brown Sharpie inside Gloria's tote (her "insulin pen"), the smear on Gloria's handkerchief, and the stain on Gloria's cuff are all the same brown — they all came from the same Sharpie. Canon. The Mentalist holds them up next to each other in Beat 7 of Round 3 — that's the visual climax of the case. If a player asks "but how can we be sure it's the same compound" — point to the color.
+Paloma's compiled files on everyone in this room — the evidence she had been gathering for Sunny's federal case. Names, dates, wire transfers, photos, recorded calls. Enough to indict every suspect at the table and several minor characters.
 
-### Why is Gloria's "insulin pen" a Sharpie?
-
-Because that's literally what it is. Wrapped in masking tape, "INSULIN" written in Sharpie. The audience reads it as an insulin pen at first glance. When the Mentalist peels back the tape in Beat 7, the joke and the proof land at the same time: it's the very pen that made every brown stain in the room. The needle cap planted in the corridor has the same masking-tape "INSULIN" label.
-
-### Why is Dex's thermos brown?
-
-**It's the intentional color misdirect.** Dex's thermos is real hot coffee — bring it out, smell it, pour it on the bartop. The killer's compound *looks* like coffee, which is exactly why Gloria chose it: it could pass through hotel laundry as a routine spill if anyone questioned the smear. Dex's coffee is the contrast that proves the killer's brown isn't coffee. ("*That* is coffee. *This* is not.")
-
-### What if a player accuses Irina before R3 Beat 5?
-
-Welcome it. Irina's accomplice role becomes the unlock. Press her: "Mrs. Volkov, did you kill Paloma Rathbone?" She breaks early. The note comes out earlier. She names Gloria. Move directly to the autopsy beat. The choreography compresses but the chain still locks.
-
-### What if a player accuses Gloria in Round 2?
-
-Gloria deflects calmly: "What an imagination. I was in the conference room with Gerald. Ask him." Gerald confirms. Move on. The Round 3 evidence makes Round 2 accusations look premature — when the five browns line up, the audience will appreciate that one of them called it early.
-
-### Who plants the cotton ball and needle cap?
-
-You do, before guests arrive. They do not get pointed out. A sharp-eyed player finds them, or Pepe surfaces them in R3 Beat 6.
-
-### What does the brown drip on the body proxy mean?
-
-The puncture wound has two parallel drips running down to the collar — one red (blood), one brown (toxin). Side by side. The audience reads "stabbed AND poisoned" instantly without needing a chemistry lecture.
+- This is the "additional evidence" Sasha's Round 3 card refers to.
+- Use it to corroborate any specific accusation: "The drive has it. Page 4. Wire transfers from a shell company to your account."
+- Don't read out a literal manifest — keep it ominous and selective. The drive is a weapon you wave, not a document you publish.
+- If a player asks how Paloma had this much: she'd been quietly building the file for months while flipping for Sunny.
 
 ### What is Pam's vial?
 
-A hotel laundry scent bottle. During her blackout, Pam stumbled into a maintenance closet, knocked over a shelf, got cleaning spray on her hand (that's the chemical burn), and grabbed the nearest small bottle — a fragrance/scent additive used on linens — without knowing what it was. She woke up with it still in her hand.
+A hotel laundry scent bottle. During her blackout, Pam stumbled into a maintenance closet, knocked over a shelf, got bleach splashed on her hand (that's the chemical burn), and grabbed the nearest small bottle — a fragrance/scent additive used on linens — without knowing what it was. She woke up with it still in her hand.
 
 - It is **not** the dermal toxin. It is **not** the paralytic. It is a red herring.
 - Pam's player genuinely doesn't know this — let her flounder, then resolve it cleanly when she becomes a dead end.
-- The broken spray bottle explains the chemical burn. The scent bottle explains the vial. Pepe confirms the maintenance closet was disturbed.
-- Land it as: "It's hotel laundry scent. She wandered into a closet she shouldn't have been in, knocked over the spray bottle, and grabbed the wrong thing on the way out. She's a drunk, not a killer."
+- The bleach explains the chemical burn. The scent bottle explains the vial. Pepe or Rosa can confirm the maintenance closet was disturbed if you need a corroborator.
+- Land it as: "It's hotel laundry scent. She wandered into a closet she shouldn't have been in, knocked over a shelf, and grabbed it. The burn is bleach from the same shelf. She's a drunk, not a killer."
 
 ### Where did Gloria actually kill Paloma — corridor or laundry room?
 

@@ -1,21 +1,3 @@
----
-type: dossier
-character: "Rev. Jimmy Whitfield"
-player_name: "Dylan"
-aliases: [Jimmy, "Jimmy Whitfield", "Rev. Jimmy Whitfield"]
-role: WITNESS
-is_killer: false
-gender: Male
-age_range: "Early 60s"
-alibi: "Meditation circle 9-10:30 PM; chapel 10:30 PM-midnight"
-alibi_location: "Chapel / meditation area"
-alibi_break: "None"
-connections: ["[[Paloma]]", "[[Gloria]]", "[[Dex]]", "[[Irina]]", "[[Zane]]", "[[Val]]"]
-affiliations: [Conference chaplain]
-secrets_count: 0
-tags: [character, witness]
----
-
 # Rev. Jimmy Whitfield Game Packet
 
 > **READ BEFORE THE PARTY**

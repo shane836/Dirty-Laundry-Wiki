@@ -1,21 +1,3 @@
----
-type: dossier
-character: "Gerald Finch"
-player_name: ""
-aliases: [Gerald, "Gerald Finch"]
-role: WITNESS
-is_killer: false
-gender: Male
-age_range: "Early 50s"
-alibi: "Conference room from 8 PM"
-alibi_location: "Conference room"
-alibi_break: "None (covering for Gloria's break)"
-connections: ["[[Gloria]]", "[[Lorraine]]"]
-affiliations: [Tax attorney - Houston]
-secrets_count: 0
-tags: [character, witness, conference-attendee]
----
-
 # Gerald Finch Game Packet
 
 > **READ BEFORE THE PARTY**
