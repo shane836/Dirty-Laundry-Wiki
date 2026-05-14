@@ -37,30 +37,6 @@ Your authority comes from three places: (1) you're already MC of the party, (2) 
 
 ---
 
-## How to Explain the Game (read aloud at the start of Round 1)
-
-After the opening monologue, before you turn players loose to mingle, take 60 seconds to explain how this works. Most of your guests have never played a murder mystery. They will be relieved that the rules are simple.
-
-> "Quick rules, then we play.
->
-> Think of this like Clue, but live. You all have a character. You all have something to hide and something to share. The mystery solves itself by you talking to each other.
->
-> Three things to remember:
->
-> **One — talk to your connections.** Your dossier lists characters you know. Start with them. Go find them. Then keep moving. Don't sit. The investigation is the conversation.
->
-> **Two — 'yes, and.'** If someone asks you something not on your card, make it up. Say yes. Add to the story. Don't break the fiction. We're all here to tell this together.
->
-> **Three — pay attention.** Clues land in conversation. Photos. Phone clips. A keycard log. A dropped set of keys. A handkerchief that's too soaked. If you see something, say something. If someone hands you a piece of paper, read it out loud.
->
-> I'll cut in occasionally — when a big reveal needs the whole room — but most of the night, you're driving. Eavesdrop. Accuse. Defend. Lie. By the end of Round 3 we vote, and at midnight we find out who killed Paloma Rathbone.
->
-> Work the room."
-
-Then: turn them loose.
-
----
-
 ## Venue Mapping — Brian's Property
 
 | Game Location | Real Location |
@@ -96,25 +72,18 @@ Then: turn them loose.
 
 **Flip to "ROUND 2 — 10:00 PM."**
 
-R2 is conversational. Players move, pair off, and trade alibis and secrets in conversation. **You are not running a round-robin alibi grill** — that's the old version. Drop the room into pairs and threes, then circulate.
+**0:00-0:15 — Alibi Round.** Go around the room. Each character gives their alibi per their card. After each: 1-2 min for player questions. Don't rush, but keep it moving.
 
-**0:00 — Open the round.** Take the floor briefly:
+**Order:** Val → Zane → Marco → Dex → Gloria → Pam → Doug → Irina → Sunny
 
-> "We're all going to talk this out. I'll get to each of you eventually, but I want to see what you tell each other first. Find your connections. Get your story straight — or pick someone else's apart. Don't sit. Don't be polite. I'm watching."
+**0:15-0:25 — Secrets Surface.** Space these 3-4 min apart:
+1. Val/Paloma beach photos (send text, or Fiona brings them up)
+2. Marco's car scratch rage (Rosa has the incident report)
+3. Pam's spiral and the "we're done" text (send text, Destiny brings up footage)
+4. Margarita spill sabotage (Zane brings up, Dex smiles and doesn't deny)
+5. Dex and Doug know each other (Zoya or another player notices)
 
-Turn them loose.
-
-**0:00-0:30 — Work the room.** Circulate. Eavesdrop. If a shy player is standing alone, walk them into a conversation: *"Mr. Patel, have you spoken with Ms. Davenport yet? She's been watching you all night."* If a beat hasn't landed by minute 25, nudge: *"Has anyone asked Fiona about the photos yet?"* / *"Mr. Reyes, your log."*
-
-**Three Mentalist beats — drop these when energy peaks.** Roughly 10, 20, and 28 minutes in.
-
-| Beat | Trigger | What you do |
-|---|---|---|
-| **A — Pam clear** (~min 10) | Pam's chemical burn / vial story has been chewed over | Call the room. Pepe holds up the broken spray bottle + fragrance bottle. Pam cleared. |
-| **B — Sunny stands up** (~min 20) | Federal stakes need to land before R3 | "Mr. Patel, stand up." Sunny drops the corporate persona, produces the badge + indictment list. Sasha steps forward with the sealed envelope — hand it to Sunny. |
-| **C — Watch count** (~min 28) | Gloria has been visibly checking her watch, Lorraine has been counting | "Mrs. Reyes. That's four times in the last ten minutes. Are we keeping you?" Gerald sweats. Lorraine confirms the count. |
-
-**Live board entering R3:** Val, Marco, Irina, Gloria. Pam, Doug, Zane, Dex, Sunny cleared as the killer.
+**0:25-0:30 — The Timeline.** Rosa delivers the master key data to you. Read it aloud. Confront Marco about the 10:07 swipe. End with: "Someone in this room is a killer. And they're good enough to make it look like chaos."
 
 **Hand out Round 3 cards.**
 
@@ -122,41 +91,21 @@ Turn them loose.
 
 **Flip to "ROUND 3 — 11:00 PM."**
 
-R3 is also conversational. The misdirection (Val looks guilty → Marco looks guilty → Gloria is guilty) needs room to breathe — let players commit to a theory before evidence dismantles it. **Hold 3–4 minutes between turns of the screw.**
+This is the main event. You're driving the investigation, dropping evidence, and pressing characters. Pace the beats — let players argue and theorize between each reveal.
 
-**0:00 — Open the round.**
+**Beat order (target timing):**
 
-> "You've heard the alibis. Now press them. Look at the body. Open bags. Ask the questions you wouldn't ask earlier. The killer is in this room and you have an hour."
-
-Turn them loose. Then circulate.
-
-**Reveals that should land in conversation (in roughly this order):**
-
-| ~Time | What surfaces | Who surfaces it |
+| Time | Beat | What Happens |
 |---|---|---|
-| 0:00–0:08 | Override-card log + Zane breaks ("ice, twenty min") + Nadia's silhouette → **Val is prime suspect** | Rosa, Zane, Nadia |
-| 0:08–0:15 | Master-key log + Pepe corroborates Range Rover move + Marco drops keys → **Val OR Marco** | Rosa, Pepe, Marco |
-| 0:15–0:22 | Zoya: "Marco is her son." Fiona's wallet photo. Diego steps forward and speaks. Jimmy: "She said 'anything.'" Gloria's composure cracks for one beat. | Zoya, Fiona, Diego, Jimmy |
-| 0:22–0:30 | Pepe's coffee tin (brown powder) + Destiny's garment-bag clip → **Irina breaks**, drops the broken English, hands over the burnt note. | Pepe, Destiny, Irina |
-| 0:30–0:35 | Pepe surfaces the cotton ball + needle cap. Players walk to the body — two parallel drips. | Pepe |
-
-**Mentalist Beat A — The Five Browns (~min 35).** Take the floor when the tin is open and Irina has named Gloria. Demand Gloria's tote.
-
-- Gloria empties it: Diego photo, handkerchief, Sharpie-labeled-INSULIN.
-- Peel back the masking tape: "This is a Sharpie."
-- Sunny holds five matching browns side by side: Sharpie, collar, handkerchief, Gloria's cuff, the powder.
-- Walk to Dex's thermos. *"That is coffee. This is the same brown as the stain on Ms. Rathbone's collar."*
-
-| ~Time | What surfaces | Who surfaces it |
-|---|---|---|
-| 0:38–0:42 | Sunny opens Sasha's USB envelope. Reads aloud: Paloma's whistleblower file names Gloria, Doug, Val's hotel group. Lorraine offers her overlapping-client list. | Sunny, Sasha, Lorraine |
-| 0:42–0:44 | Gerald cracks. "She left at 10:25. Four watch checks in ten minutes." Lorraine confirms: "Closer to ten or eleven minutes, not five." | Gerald, Lorraine |
-
-**Mentalist Beat B — Val cleared, Marco the eyewitness (~min 44).** Close the round.
-
-- Pepe hands you the maintenance work order signed by Val at 10:05. **Val is cleared.**
-- "Mr. Reyes. What did you see?"
-- Marco drops his keys one last time, looks at Gloria: *"I saw her near the service stairwell. 10:25. She had her hand in her tote. I knew. I've known all night."*
+| 0:00 | Override card | 10:05 swipe on Paloma's floor. Zane breaks ("ice, twenty minutes"). Nadia confirms silhouette. **Val is prime suspect.** Hold 3–4 min for theorizing. |
+| 0:08 | Valet master key | 10:07 service-area swipe. Pepe corroborates the car move; the 15-min gap remains. Marco drops his keys (third time). **Val OR Marco look guilty.** |
+| 0:14 | Two photos of Diego | Zoya: "Marco is her son." Mentalist demands proof. Fiona's pre-loaded close-up of Marco's wallet matches the loose printed photo the Mentalist lifts from Gloria's tote. **Same photo. Same picture.** |
+| 0:19 | Diego speaks | Diego (ghost) tells the cartel-trade story. Zoya names the timeline. Jimmy: "She said 'anything.' Now we know what 'anything' meant." Gloria's composure cracks for one beat. |
+| 0:24 | Shirt traced + Irina names Gloria | Mentalist holds up collar. Pepe pours out the "Café Cubano" tin — brown poison powder, not coffee. Destiny plays garment-bag clip. **Irina pulls the burnt note from her apron, drops the broken English, names Gloria.** Mentalist reads the note aloud. |
+| 0:30 | Autopsy + corridor | Pepe holds up the bloodstained cotton ball and needle cap. Mentalist reads autopsy: same brown color signature. Players walk to the body — two parallel drips, red and brown. Chain locking. |
+| 0:35 | Gloria's tote (the smoking guns) | Empty Gloria's bag. **Five matching browns line up on the table:** collar / Irina's tin / Gloria's brown Sharpie ("insulin pen") / handkerchief / Gloria's cuff. Mentalist holds up Dex's thermos for contrast: "*That* is coffee. *This* is the same brown as the stain on Ms. Rathbone's collar." |
+| 0:40 | Gerald cracks | Gerald (visibly sweating through his shirt): "She left. 10:25. Restroom. Four watch checks in ten minutes before she left. Like she was waiting for a window." |
+| 0:43 | Val cleared + Marco's eyewitness | Pepe produces the maintenance work order signed by Val at 10:05 — a leaking unit. **Val cleared.** Marco drops his keys one final time, looks at Gloria: "I saw her at the service stairwell. 10:25." |
 
 **Hand out Round 4 cards. Give Gloria her confession envelope if you haven't already.**
 
@@ -164,18 +113,11 @@ Turn them loose. Then circulate.
 
 **Flip to "ROUND 4 — MIDNIGHT."**
 
-**0:00 — The Vote.** "Who killed Paloma Rathbone?" Verbal, ballot, or show of hands.
+**0:00 — The Vote.** "Who killed Paloma Rathbone?" Verbal vote, written ballot, or show of hands.
 
-**0:03 — The Confession.**
+**0:05 — The Confession.** If Gloria is correctly identified, she stands and delivers the confession. (If players get it wrong, reveal the truth and have Gloria deliver the confession anyway — the emotional payoff is too good to skip.)
 
-- **If players correctly identify Gloria:** She stands and delivers the confession from her sealed envelope.
-- **If players get it wrong** (split vote, wrong name, no consensus): you take the floor with dramatic flourish and reveal it yourself. Speech in `round cards/26-Round-Cards-R4.md` under "If players DON'T vote Gloria." End with: *"The killer is Gloria Reyes."* Then Gloria stands and confesses.
-
-The confession lands either way. The emotional payoff is too good to skip.
-
-**0:10 — Reactions.** Everyone else has reaction directions on their R4 card. Big, theatrical, soap-opera reactions. Lean into it. Let it breathe — this is the after-image of the whole night.
-
-**0:13 — Wrap-up.** Read the closing monologue. Police sirens. Game over.
+**0:12 — Wrap-up.** Read the closing monologue. Police sirens. Game over.
 
 **Applause. Drinks. Discussion. Enjoy.**
 

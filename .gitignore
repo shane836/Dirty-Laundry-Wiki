@@ -3,7 +3,3 @@
 *.zip
 *.docx
 .gstack/
-.venv/
-__pycache__/
-*.pyc
-docx/

@@ -24,17 +24,17 @@ Give these to each player with their dossier before the party.
 | **Dex Calloway** | Bar apron (waist-tied), bar towel, cocktail shaker or bar tools, **coffee thermos with REAL hot coffee under the bar** (intentional brown-color misdirect — Dex pours it on the bartop in R2 to prove it's coffee) |
 | **Gloria Reyes** | Linen tote bag, **brown Sharpie wrapped in masking tape labeled "INSULIN"** (this *is* the insulin pen — when "opened" the brown ink is the toxin signature), **printed photo of Diego in the tote (matches Marco's wallet card; Esther provides the source image)**, **handkerchief in bottom of tote (pre-stained: one drop of red Kool-Aid + one brown smear from the same Sharpie)**, **handwritten note from Gloria (matched pair with Irina's)**, **costume top with brown Sharpie coffee-stain pre-applied to inside of right cuff** |
 | **Pam Worthington** | **Oversized novelty wine glass (fishbowl-style — the bigger and goofier the better)**, chemical vial (small bottle with yellowish powder — flour or cornstarch; resolved as room scent in R2) |
-| **Doug Kaminski** | Hawaiian shirt, cigar (unlit), **KPS business card** (Shane's card with "Kaminski Porta-Solutions" written in Sharpie), **giant fake Pittsburgh tourist receipt printed in Comic Sans, dated tomorrow** | **Karaoke Machine**
+| **Doug Kaminski** | Hawaiian shirt, cigar (unlit), **KPS business card** (Shane's card with "Kaminski Porta-Solutions" written in Sharpie), **giant fake Pittsburgh tourist receipt printed in Comic Sans, dated tomorrow** |
 | **Irina Volkov** | Hotel ID badge on lanyard ("IRINA — Housekeeping"), master key card (label "MASTER KEY"), cleaning cloth, **tin or jar mislabeled "Café Cubano" filled with brown poison powder (use brown-tinted flour or ground coffee mixed with cocoa) — keep on laundry cart**, **burnt-edge handwritten note from "G." in apron pocket (matched with Gloria's; one corner scorched)** |
-| **Sunny Patel** | **"Stratton Consulting Group" business card** (Shane's card sharpied), padfolio or leather folder containing **federal badge prop and a printed indictment list with every suspect's name** (revealed at end of R2). **In R3, Sunny opens Sasha's sealed envelope and reads from a printed "whistleblower file summary" — Shane prints this and keeps the printout INSIDE Sasha's sealed envelope alongside (or in place of) the USB drive prop, so the read-aloud is real.** |
+| **Sunny Patel** | **"Stratton Consulting Group" business card** (Shane's card sharpied), padfolio or leather folder containing **federal badge prop and a printed indictment list with every suspect's name** (revealed at end of R2) |
 | **Paloma / Dina** | *(See body proxy below)* |
-| **Diego (Esther — ghost)** | **Hawaiian shirt (Shane brings — eerie casual contrast for the ghost)**, **Esther provides her photo (or one of her choosing) to Shane before the party — Shane prints two matched copies for Gloria's tote and Marco's wallet** |
+| **Diego (Esther — ghost)** | **Esther provides her photo (or one of her choosing) to Shane before the party — Shane prints two matched copies for Gloria's tote and Marco's wallet** |
 | **Fiona Beaumont** | Camera (real or prop), wrist cast or brace, press pass, **phone pre-loaded with a close-up shot of "Marco's wallet open showing Diego's photo"** (revealed in R3 Beat 3) |
 | **Zoya Davenport** | Linen blazer, cocktail glass, glasses on a chain |
 | **Rev. Jimmy** | Dog collar + Hawaiian shirt (essential combo), small notebook, cross necklace |
 | **Destiny Rivers** | Phone (always in hand), selfie stick (Shane brings one if needed), **pre-recorded clip of Irina rushing a garment bag down a hallway at 7 PM** (load on phone before party), **printed text-history showing Paloma sent the "we're done" message to four different people** (Destiny holds this in R2 Revelation 5 — she's an influencer, screenshots are natural) |
 | **Gerald Finch** | **"Finch & Associates" business card** (Shane's card sharpied), loosened tie, **handkerchief pre-dampened with water before R3 so wet patches show when he mops his face**, light-colored shirt to make sweat visible |
-| **Nadia Osei** | Headphones around neck, playlist printout, DJ name tag, **phone pre-loaded with a photo "from the DJ booth at 9:55 PM" showing Val's back staircase open with a silhouette inside**, **R4 confession music cue pre-loaded (slow/mournful steel-drum cover for the moment Gloria stands and confesses)** |
+| **Nadia Osei** | Headphones around neck, playlist printout, DJ name tag, **phone pre-loaded with a photo "from the DJ booth at 9:55 PM" showing Val's back staircase open with a silhouette inside** |
 | **Pepe Stevens** | Work shirt, tool belt or wrench, master key (the extra one — label it), **broken spray bottle (the cleaning-supply prop that clears Pam in R2)**, **maintenance work order on hotel letterhead signed by Val at 10:05 PM** (Pepe holds it in R3 Beat 9 — he's actually maintenance, so the work-order log is his domain) |
 | **Fortunado Marchand / Mentalist (Host)** | Pocket watch on chain, deck of cards, small "predictions" notebook, pen, evidence folder |
 
@@ -98,7 +98,6 @@ Give these to each player with their dossier before the party.
 Everything below is on Shane. Players bring costumes and any character-specific items called out as "you bring" in the table above.
 
 ### Physical / hardware
-- [ ] **Hawaiian shirt for Esther (Diego ghost)** — Shane brings; ghostly casual contrast
 - [ ] Selfie stick (in case Destiny doesn't have one)
 - [ ] **Brown Sharpie** (this is Gloria's "insulin pen" — also used to make every other brown stain in the kit)
 - [ ] Roll of masking tape (for the "INSULIN" label on the Sharpie and the needle cap)
@@ -119,7 +118,6 @@ Everything below is on Shane. Players bring costumes and any character-specific 
 - [ ] Cardboard for round flipboard (4 flip cards)
 
 ### Print jobs
-- [ ] **Sasha's "whistleblower file summary"** — short printed page Sunny reads aloud in R3 after opening the envelope; goes inside the sealed envelope alongside the USB drive
 - [ ] **Character nametags** (one per player — name + role)
 - [ ] **Area signs** (4): LOBBY / LAUNDRY ROOM / SERVICE CORRIDOR / POOL DECK
 - [ ] **Round flipboard cards** (4 timestamps)

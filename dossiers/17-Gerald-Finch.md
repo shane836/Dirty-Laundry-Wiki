@@ -1,7 +1,7 @@
 ---
 type: dossier
 character: "Gerald Finch"
-player_name: "Dan"
+player_name: ""
 aliases: [Gerald, "Gerald Finch"]
 role: WITNESS
 is_killer: false
