@@ -1,3 +1,9 @@
+---
+title: Props List
+parent: Host Materials
+nav_order: 2
+---
+
 # Props List — Dirty Laundry v3
 
 ---

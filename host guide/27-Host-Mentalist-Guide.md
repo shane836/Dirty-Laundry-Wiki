@@ -1,3 +1,9 @@
+---
+title: Host & Mentalist Guide
+parent: Host Materials
+nav_order: 1
+---
+
 # Host Guide — Fortunado Marchand, The Mentalist
 
 **You are Fortunado Marchand, "Fortunado the Magnificent":** A stage mentalist and mind-reader hired as the evening's entertainment. You've performed for kings, cartel bosses, and three sitting senators — none of whom liked the mirror you held up. You read micro-expressions for a living. You spot tells. You have a showman's instinct to fill silence with theater.

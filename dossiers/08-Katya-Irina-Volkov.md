@@ -1,3 +1,9 @@
+---
+title: "Irina Volkov"
+parent: Characters
+nav_order: 8
+---
+
 # Irina Volkov Game Packet
 
 > **READ BEFORE THE PARTY**

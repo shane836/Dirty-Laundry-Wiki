@@ -1,3 +1,9 @@
+---
+title: Game Chatbot
+parent: Scripts
+nav_order: 1
+---
+
 # Game Chatbot
 
 System for delivering real-time, character-specific messages to players during a live murder-mystery game via Telegram.

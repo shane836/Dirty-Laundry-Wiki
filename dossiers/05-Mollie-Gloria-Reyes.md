@@ -1,3 +1,9 @@
+---
+title: "Gloria Reyes"
+parent: Characters
+nav_order: 5
+---
+
 # Gloria Reyes Game Packet
 
 > **READ BEFORE THE PARTY**

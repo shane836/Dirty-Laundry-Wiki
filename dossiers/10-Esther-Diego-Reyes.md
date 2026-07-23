@@ -1,3 +1,9 @@
+---
+title: "Diego Reyes"
+parent: Characters
+nav_order: 10
+---
+
 # Diego Reyes (Ghost) Game Packet
 
 > **READ BEFORE THE PARTY**

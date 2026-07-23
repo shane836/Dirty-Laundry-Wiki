@@ -1,3 +1,9 @@
+---
+title: "Doug Kaminski"
+parent: Characters
+nav_order: 7
+---
+
 # Doug Kaminski Game Packet
 
 > **READ BEFORE THE PARTY**

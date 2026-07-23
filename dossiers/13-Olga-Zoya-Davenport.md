@@ -1,3 +1,9 @@
+---
+title: "Zoya Davenport"
+parent: Characters
+nav_order: 13
+---
+
 # Zoya Davenport Game Packet
 
 > **READ BEFORE THE PARTY**

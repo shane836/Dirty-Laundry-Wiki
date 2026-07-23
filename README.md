@@ -1,3 +1,10 @@
+---
+title: Home
+layout: home
+nav_order: 1
+permalink: /
+---
+
 # Dirty Laundry: Murder in the Caymans
 
 A murder mystery dinner party game set on a private Cayman Islands estate.

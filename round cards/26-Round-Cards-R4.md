@@ -1,3 +1,9 @@
+---
+title: Round 4
+parent: Round Cards
+nav_order: 4
+---
+
 # Round 4 Cards — "The Reveal"
 ### In-Game Time: Midnight | Flipboard: ROUND 4 — MIDNIGHT
 

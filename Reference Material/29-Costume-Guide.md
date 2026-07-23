@@ -1,3 +1,9 @@
+---
+title: Costume Guide
+parent: Host Materials
+nav_order: 3
+---
+
 # Costume Guide — Dirty Laundry v3
 
 Send this to players ahead of the party so they can dress the part. No plot details included.

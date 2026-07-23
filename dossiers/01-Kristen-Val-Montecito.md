@@ -1,3 +1,9 @@
+---
+title: "Val Montecito"
+parent: Characters
+nav_order: 1
+---
+
 # Val Montecito Game Packet
 
 > **READ BEFORE THE PARTY**

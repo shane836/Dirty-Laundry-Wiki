@@ -1,3 +1,9 @@
+---
+title: "Rev. Jimmy Whitfield"
+parent: Characters
+nav_order: 14
+---
+
 # Rev. Jimmy Whitfield Game Packet
 
 > **READ BEFORE THE PARTY**

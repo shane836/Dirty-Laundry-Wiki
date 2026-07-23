@@ -1,3 +1,9 @@
+---
+title: "Gerald Finch"
+parent: Characters
+nav_order: 17
+---
+
 # Gerald Finch Game Packet
 
 > **READ BEFORE THE PARTY**

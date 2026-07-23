@@ -1,3 +1,9 @@
+---
+title: Round 3
+parent: Round Cards
+nav_order: 3
+---
+
 # Round 3 Cards — "The Investigation"
 ### In-Game Time: 11:00 PM – Midnight | Flipboard: ROUND 3 — 11:00 PM
 

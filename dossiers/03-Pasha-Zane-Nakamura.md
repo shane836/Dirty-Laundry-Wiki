@@ -1,3 +1,9 @@
+---
+title: "Zane Nakamura"
+parent: Characters
+nav_order: 3
+---
+
 # Zane Nakamura Game Packet
 
 > **READ BEFORE THE PARTY**
