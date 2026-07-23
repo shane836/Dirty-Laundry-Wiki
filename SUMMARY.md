@@ -1,8 +1,3 @@
----
-title: Table of Contents
-nav_exclude: true
----
-
 # Table of contents
 
 * [Home](README.md)
