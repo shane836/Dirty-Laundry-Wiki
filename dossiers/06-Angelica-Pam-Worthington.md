@@ -1,3 +1,9 @@
+---
+title: "Pam Worthington"
+parent: Characters
+nav_order: 6
+---
+
 # Pam Worthington Game Packet
 
 > **READ BEFORE THE PARTY**

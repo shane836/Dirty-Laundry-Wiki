@@ -1,3 +1,9 @@
+---
+title: Round 1
+parent: Round Cards
+nav_order: 1
+---
+
 # Round 1 Cards — "The After-Party"
 ### In-Game Time: 8:00 PM – 10:00 PM | Flipboard: ROUND 1 — 8:00 PM
 

@@ -1,3 +1,9 @@
+---
+title: "Fiona Beaumont"
+parent: Characters
+nav_order: 11
+---
+
 # Fiona Beaumont Game Packet
 
 > **READ BEFORE THE PARTY**

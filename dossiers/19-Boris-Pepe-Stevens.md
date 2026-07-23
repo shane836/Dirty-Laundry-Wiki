@@ -1,3 +1,9 @@
+---
+title: "Pepe Stevens"
+parent: Characters
+nav_order: 19
+---
+
 # Pepe Stevens Game Packet
 
 > **READ BEFORE THE PARTY**

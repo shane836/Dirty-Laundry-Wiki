@@ -1,3 +1,8 @@
+---
+title: Setting and Premise
+nav_order: 3
+---
+
 # Setting & Premise
 
 ## What Is This Game?

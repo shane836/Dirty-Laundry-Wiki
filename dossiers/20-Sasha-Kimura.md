@@ -1,3 +1,9 @@
+---
+title: "Sasha Kimura"
+parent: Characters
+nav_order: 20
+---
+
 # Sasha Kimura Game Packet
 
 > **READ BEFORE THE PARTY**

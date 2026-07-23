@@ -1,3 +1,9 @@
+---
+title: Round 2
+parent: Round Cards
+nav_order: 2
+---
+
 # Round 2 Cards — "Everyone's a Suspect"
 ### In-Game Time: 10:00 PM – 11:00 PM | Flipboard: ROUND 2 — 10:00 PM
 

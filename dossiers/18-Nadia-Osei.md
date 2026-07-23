@@ -1,3 +1,9 @@
+---
+title: "Nadia Osei"
+parent: Characters
+nav_order: 18
+---
+
 # Nadia Osei Game Packet
 
 > **READ BEFORE THE PARTY**

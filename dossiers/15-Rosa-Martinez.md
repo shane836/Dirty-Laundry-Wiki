@@ -1,3 +1,9 @@
+---
+title: "Rosa Martinez"
+parent: Characters
+nav_order: 15
+---
+
 # Rosa Martinez Game Packet
 
 > **READ BEFORE THE PARTY**

@@ -1,3 +1,8 @@
+---
+title: Master Storyline
+nav_order: 2
+---
+
 # DIRTY LAUNDRY: MURDER IN THE CAYMANS
 ## Master Storyline — Gloria Reyes is the Killer
 

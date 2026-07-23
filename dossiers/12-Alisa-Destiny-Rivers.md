@@ -1,3 +1,9 @@
+---
+title: "Destiny Rivers"
+parent: Characters
+nav_order: 12
+---
+
 # Destiny Rivers Game Packet
 
 > **READ BEFORE THE PARTY**

@@ -1,3 +1,9 @@
+---
+title: "Lorraine Chu"
+parent: Characters
+nav_order: 16
+---
+
 # Lorraine Chu Game Packet
 
 > **READ BEFORE THE PARTY**

@@ -1,3 +1,9 @@
+---
+title: "Dex Calloway"
+parent: Characters
+nav_order: 4
+---
+
 # Dex Calloway Game Packet
 
 > **READ BEFORE THE PARTY**

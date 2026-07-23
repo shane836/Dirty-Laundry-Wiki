@@ -1,3 +1,9 @@
+---
+title: "Sunny Patel"
+parent: Characters
+nav_order: 9
+---
+
 # Sunny Patel Game Packet
 
 > **READ BEFORE THE PARTY**

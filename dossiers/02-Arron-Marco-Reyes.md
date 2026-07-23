@@ -1,3 +1,9 @@
+---
+title: "Marco Reyes"
+parent: Characters
+nav_order: 2
+---
+
 # Marco Reyes Game Packet
 
 > **READ BEFORE THE PARTY**
