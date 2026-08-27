@@ -13,6 +13,10 @@ This wiki contains the full storyline, every character dossier, all four rounds 
 
 If you want to consume this material using AI, point your agent at the repo here: https://github.com/shane836/Dirty-Laundry-Wiki
 
+## How this was built
+
+Built with Claude Code, directed and reviewed by me.
+
 ## Where to start
 
 - **Hosts:** read [Master Storyline](00-Master-Storyline.md), then [Host & Mentalist Guide](host guide/27-Host-Mentalist-Guide.md), then skim every character.
